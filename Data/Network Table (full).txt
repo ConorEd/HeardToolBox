@@ -1,0 +1,667 @@
+Source	ATG	Target	Interaction	CCV	SYP61	Peroxisome	TGN	VHA-A1-GFP	CLC2-GFP	RABF1/ARA6-RFP	RFP-RABF2b/ARA7	YFP-GOT1	YFP-RABD2a/ARA5	YFP-RABG3f	YFP-VAMP711	Interactor Number	Contaminant	S-acylation	ER	Golgi	mit/plastid	Other	PM	Vacuole	Contaminant	Golgi	ER	ER/Vacuole	Golgi	mit/plastid	not classified	PM	Vacuole	Grand Total	TMs	Lipid modifications	IEA	IDA	Signal peptide	Database	unconventional?
+ARA6/AtRABF1	AT3G26520	"TIP2, SITIP, GAMMA-TIP2, TIP1;2 tonoplast intrinsic protein 2 "	pp				1			1	1					2								1		1								5	7	0	0	chloroplast columella endoplasmic reticulum Golgi apparatus membrane plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA6/AtRABF1	AT1G59870	"PEN3, PDR8, ATPDR8, ABCG36, ATABCG36 ABC-2 and Plant PDR ABC-type transporter family protein "	pp		1			1	1	1	1	1	1	1	1	7		1					1									1		12	13	0	0	chloroplast chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane 	0	Swiss	
+ARA6/AtRABF1	AT5G53480	ARM repeat superfamily protein 	pp						1	1	1	1	1	1	1	7		1																8	0	0	0	chloroplast cytoplasm nucleus 	0	Swiss	
+ARA6/AtRABF1	AT2G46520	"cellular apoptosis susceptibility protein, putative / importin-alpha re-exporter, putative "	pp							1	1	1	1	1	1	6		1																7	0	0	nucleus 	cytosol membrane plasmodesma 	0	Swiss	
+ARA6/AtRABF1	AT2G33120	VAMP722/SAR1	pp							1	1	1	1	1		5																		5	1	0	0	0	0	Swiss	
+ARA6/AtRABF1	AT2G02560	"CAND1, ATCAND1, ETA2, TIP120, HVE cullin-associated and neddylation dissociated "	pp							1	1			1		3		1																4	0	0	0	cell wall cytosol plasma membrane 	0	Swiss	
+ARA6/AtRABF1	AT2G36530	"LOS2, ENO2 Enolase "	pp							1	1			1		3		1				1												5	0	0	0	apoplast chloroplast cytoplasm cytosol membrane mitochondrial envelope mitochondrion nucleus plasma membrane plasmodesma 	0	Swiss	
+ARA6/AtRABF1	AT1G26850	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1	1	1	1			4		1		1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus membrane trans-Golgi network 	0	Swiss	
+ARA6/AtRABF1	AT4G18030	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp					1		1	1	1	1			4				1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus plant-type cell wall trans-Golgi network vacuolar membrane 	0	Swiss	
+ARA6/AtRABF1	AT3G23300	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1		1	1		1	4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus nucleus trans-Golgi network vacuolar membrane 	0	Swiss	
+ARA6/AtRABF1	AT4G19640	ARA7/AtRABF2b	pp							1	1		1	1		4			1												1			6	0	S-geranylgeranyl cysteine. {ECO:0000250}.	early endosome membrane vacuolar membrane 	early endosome endoplasmic reticulum endosome plasma membrane 	0	Swiss	
+ARA6/AtRABF1	AT1G43890	AtRABC1	pp							1				1		2						1									1			4	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	plasma membrane 	0	Swiss	
+ARA6/AtRABF1	AT3G54840	ARA6/AtRABF1	pp							1						1						1									1			3	0	N-myristoyl glycine.	early endosome membrane plasma membrane 	cytoplasmic side of endosome membrane early endosome endosome 	0	Swiss	
+ARA6/AtRABF1	AT1G14670	Endomembrane protein 70 protein family 	pp							1	1	1				3				1						1			1					6	10	0	0	endosome Golgi apparatus membrane trans-Golgi network 	1	Swiss	
+ARA6/AtRABF1	AT3G05040	"HST, HST1 ARM repeat superfamily protein "	pp							1						1																		1	0	0	0	nucleus 	0	Swiss	
+ARA6/AtRABF1	ATCG00340	"PSAB Photosystem I, PsaA/PsaB protein"	pp						1	1	1					3																		3	11	0	chloroplast thylakoid membrane 	0	0	Swiss	
+ARA6/AtRABF1	AT4G30190	"AHA2, PMA2, HA2 H(+)-ATPase 2 "	pp		1					1	1		1			3							1			1						1		7	8	0	plasma membrane 	integral component of membrane 	0	Swiss	
+ARA6/AtRABF1	AT3G58730	vacuolar ATP synthase subunit D (VATD) / V-ATPase D subunit / vacuolar proton pump D subunit (VATPD) 	pp		1					1	1					2								1		1		1						6	0	0	0	Golgi apparatus membrane plant-type vacuole plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA6/AtRABF1	AT3G53420	"PIP2A, PIP2, PIP2;1 plasma membrane intrinsic protein 2A "	pp							1				1		2							1					1						4	6	0	0	chloroplast membrane plasma membrane plasmodesma vacuole 	0	Swiss	
+ARA6/AtRABF1	AT1G71270	VPS52	pp						1	1	1		1	1		5																		5	0	0	endosome membrane 	endomembrane system GARP complex Golgi apparatus Golgi membrane 	0	Swiss	
+ARA6/AtRABF1	AT1G53750	RPT1A regulatory particle triple-A 1A 	pp							1	1					2																		2	0	0	0	cytosol plasma membrane proteasome complex 	0	Swiss	
+ARA6/AtRABF1	AT3G23820	GAE6 UDP-D-glucuronate 4-epimerase 6 	pp							1		1				2				1						1								4	1	0	Golgi cisterna membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA6/AtRABF1	AT4G29220	PFK1 phosphofructokinase 1 	pp							1						1																		1	0	0	0	cytosol plasma membrane 	0	Swiss	
+ARA6/AtRABF1	AT3G02260	"BIG, DOC1, TIR3, UMB1, ASA1, LPR1, CRM1 auxin transport protein (BIG) "	pp						1	1	1		1	1		5						1												6	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+ARA6/AtRABF1	AT3G63460	SEC31B	pp							1	1		1			3																		3	0	0	endoplasmic reticulum Golgi apparatus 	cytosol membrane plasmodesma 	0	Swiss	
+ARA6/AtRABF1	AT1G62020	Coatomer ? (RET1p)	pp							1	1		1	1	1	5						1												6	0	0	0	cytosol membrane plasma membrane 	0	Swiss	
+ARA6/AtRABF1	AT2G21390	Coatomer ? (RET1p)	pp							1	1		1	1		4																		4	0	0	0	cytosol membrane 	0	Swiss	
+ARA6/AtRABF1	AT3G10380	SEC8	pp						1	1	1		1	1		5																		5	0	0	cell wall phragmoplast 	cytosol exocyst plasma membrane plasmodesma 	0	Swiss	
+ARA6/AtRABF1	AT4G24550	Clathrin adaptor complexes medium subunit family protein 	pp							1	1			1		3																		3	0	0	coated pit Golgi apparatus 	cytosol 	0	Swiss	
+ARA6/AtRABF1	AT3G59020	ARM repeat superfamily protein 	pp							1	1					2																		2	0	0	0	cytosol 	0	Swiss	
+ARA6/AtRABF1	AT3G18780	actin 2 (ACT2)	pp							1	1					2																		2	0	0	cytoskeleton 	cytoplasm membrane nucleus 	0	Swiss	
+ARA6/AtRABF1	AT3G05530	"RPT5A, ATS6A.2 regulatory particle triple-A ATPase 5A "	pp							1	1			1	1	4																		4	0	0	0	cytoplasm cytosol nucleus proteasome complex 	0	Swiss	
+ARA6/AtRABF1	AT2G31660	"SAD2, URM9 ARM repeat superfamily protein "	pp							1	1			1		3																		3	0	0	0	cytoplasm cytosol nucleus 	0	Swiss	
+ARA6/AtRABF1	AT3G02530	TCP-1/cpn60 chaperonin family protein 	pp							1	1				1	3																		3	0	0	0	cytoplasm cytosol membrane 	0	Swiss	
+ARA6/AtRABF1	AT5G13630	"GUN5, CCH, CHLH, CCH1, ABAR magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH) "	pp							1			1	1		3																		3	0	0	chloroplast stroma 	chloroplast mitochondrion 	0	Swiss	
+ARA6/AtRABF1	AT1G20260	"ATPase, V1 complex, subunit B protein"	pp							1	1			1	1	4										1								5	0	0	0	chloroplast Golgi apparatus vacuolar membrane vacuole 	0	Swiss	
+ARA6/AtRABF1	AT5G08690	ATP synthase alpha/beta family protein 	pp							1	1	1		1	1	5																		5	0	0	0	"chloroplast envelope mitochondrial proton-transporting ATP synthase complex mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) mitochondrial respiratory chain complex I mitochondrion nucleolus "	0	Swiss	
+ARA6/AtRABF1	AT5G01530	LHCB4.1 light harvesting complex photosystem II 	pp							1	1					2																		2	0	0	0	chloroplast chloroplast thylakoid chloroplast thylakoid membrane membrane plastoglobule thylakoid 	0	Swiss	
+ARA6/AtRABF1	AT1G74960	"FAB1, KAS2, ATKAS2 fatty acid biosynthesis 1 "	pp							1	1			1		3																		3	0	0	0	chloroplast chloroplast stroma 	0	Swiss	
+ARA6/AtRABF1	AT3G08940	LHCB4.2 light harvesting complex photosystem II 	pp							1						1																		1	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane thylakoid 	0	Swiss	
+ARA6/AtRABF1	AT3G23400	FIB4 Plastid-lipid associated protein PAP / fibrillin family protein 	pp							1	1					2							1									1		4	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane nucleus plasma membrane plastoglobule thylakoid thylakoid lumen 	0	Swiss	
+ARA6/AtRABF1	AT1G01610	"ATGPAT4, GPAT4 glycerol-3-phosphate acyltransferase 4 "	pp							1						1			1												1			3	3	0	0	0	0	Swiss	
+ARA6/AtRABF1	AT5G19820	emb2734 ARM repeat superfamily protein 	pp						1	1	1	1	1	1		6																		6	0	0	0	cell wall cytosol 	0	trembl	1
+ARA6/AtRABF1	AT3G01780	TPLATE	pp	1						1	1					2							1											4	0	0	0	cell plate cytoplasm cytosol nucleus phragmoplast plasma membrane plasmodesma 	0	Swiss	
+ARA6/AtRABF1	AT1G20620	"CAT3, SEN2, ATCAT3 catalase 3 "	pp			1				1	1	1				3																		4	0	0	0	apoplast cell wall chloroplast chloroplast envelope chloroplast stroma cytosolic ribosome membrane mitochondrion peroxisome plasma membrane plasmodesma vacuole 	0	Swiss	1
+ARA6/AtRABF1	AT2G16950	"TRN1, ATTRN1 transportin 1 "	pp						1	1	1		1	1		5																		5	0	0	cytoplasm nucleoplasm 	0	0	Swiss	
+ARA6/AtRABF1	AT5G65010	ASN2 asparagine synthetase 2 	pp						1	1	1		1	1		5																		5	0	0	0	0	0	Swiss	
+ARA6/AtRABF1	AT1G52360	Coatomer ß ' (SEC27p)	pp							1	1		1	1		4																		4	0	0	COPI-coated vesicle membrane 	0	0	Swiss	
+ARA6/AtRABF1	AT5G09900	"EMB2107, RPN5A, MSA 26S proteasome regulatory subunit, putative (RPN5) "	pp							1	1			1		3																		3	0	0	cytoplasm nucleus 	0	0	Swiss	
+ARA6/AtRABF1	AT5G65950	unknown protein	pp		1			1		1	1		1			3																		5	0	0	0	0	0	trembl	
+ARA6/AtRABF1	AT5G04530	KCS19 3-ketoacyl-CoA synthase 19 	pp							1						1																		1	1	0	0	0	0	Swiss	
+ARA6/AtRABF1	AT5G11040	TRS120	pp		1			1		1						1																		3	0	0	0	0	0	Swiss	
+ARA6/AtRABF1	AT1G65220	ARM repeat superfamily protein 	pp							1						1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G64030	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp		1		1				1	1				2		1		1						1					1			8	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT4G12650	Endomembrane protein 70 protein family 	pp		1		1				1	1				2				1						1					1			7	10	0	0	endosome Golgi apparatus plasmodesma trans-Golgi network vacuolar membrane vacuole 	1	Swiss	
+ARA7/AtRABF2b	AT1G30450	"CCC1, ATCCC1, HAP5 cation-chloride co-transporter 1 "	pp		1		1	1			1		1			2				1									1					7	9	0	0	endosome Golgi apparatus plasma membrane trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT4G30260	YIP4b	pp		1		1	1			1		1			2				1											1			7	5	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G58460	"ATRBL15, RBL15 RHOMBOID-like protein 15 "	pp				1	1			1		1			2																		4	6	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT3G26520	"TIP2, SITIP, GAMMA-TIP2, TIP1;2 tonoplast intrinsic protein 2 "	pp				1			1	1					2								1		1								5	7	0	0	chloroplast columella endoplasmic reticulum Golgi apparatus membrane plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT5G44790	"RAN1, HMA7 copper-exporting ATPase / responsive-to-antagonist 1 / copper-transporting ATPase (RAN1) "	pp		1		1	1			1					1		1		1											1			7	8	0	0	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT2G28520	VHA-A1 vacuolar proton ATPase A1 	pp		1		1	1			1					1				1						1					1			7	6	0	0	endosome Golgi apparatus trans-Golgi network trans-Golgi network transport vesicle membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT1G52780	Protein of unknown function (DUF2921) 	pp		1		1				1					1				1											1			5	6	0	0	endosome Golgi apparatus membrane trans-Golgi network 	0	trembl	
+ARA7/AtRABF2b	AT3G52850	VSR1	pp				1	1			1					1			1							1					1			6	1	0	clathrin-coated vesicle membrane Golgi membrane late endosome membrane 	endoplasmic reticulum Golgi apparatus plasma membrane 	1	Swiss	
+ARA7/AtRABF2b	AT3G54300	VAMP727	pp				1	1			1					1																		3	1	0	0	endosome 	0	Swiss	
+ARA7/AtRABF2b	AT1G59870	"PEN3, PDR8, ATPDR8, ABCG36, ATABCG36 ABC-2 and Plant PDR ABC-type transporter family protein "	pp		1			1	1	1	1	1	1	1	1	7		1					1									1		12	13	0	0	chloroplast chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G53480	ARM repeat superfamily protein 	pp						1	1	1	1	1	1	1	7		1																8	0	0	0	chloroplast cytoplasm nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT2G46520	"cellular apoptosis susceptibility protein, putative / importin-alpha re-exporter, putative "	pp							1	1	1	1	1	1	6		1																7	0	0	nucleus 	cytosol membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT5G26360	TCP-1/cpn60 chaperonin family protein 	pp								1		1	1		3		1				1												5	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT2G33120	VAMP722/SAR1	pp							1	1	1	1	1		5																		5	1	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT2G02560	"CAND1, ATCAND1, ETA2, TIP120, HVE cullin-associated and neddylation dissociated "	pp							1	1			1		3		1																4	0	0	0	cell wall cytosol plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT2G36530	"LOS2, ENO2 Enolase "	pp							1	1			1		3		1				1												5	0	0	0	apoplast chloroplast cytoplasm cytosol membrane mitochondrial envelope mitochondrion nucleus plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT1G09640	"Translation elongation factor EF1B, gamma chain "	pp								1			1		2		1						1										4	0	0	0	cytosol plasma membrane plasmodesma vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT1G62380	"ACO2, ATACO2 ACC oxidase 2 "	pp								1			1		2		1								1								4	0	0	0	cell wall cytosol endoplasmic reticulum Golgi apparatus plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT5G05010	Coatomer ? (RET2p)	pp								1		1			2		1																3	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT5G12370	SEC10	pp								1		1			2		1																3	0	0	0	exocyst membrane plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT1G29470	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp								1	1	1	1		4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT2G26250	"FDH, KCS10 3-ketoacyl-CoA synthase 10 "	pp								1	1		1	1	4			1								1							6	3	0	0	endoplasmic reticulum membrane 	0	Swiss	
+ARA7/AtRABF2b	AT3G42050	vacuolar ATP synthase subunit H family protein 	pp		1						1					1		1						1		1							1	6	0	0	0	chloroplast Golgi apparatus plant-type vacuole plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT1G19870	IQ-domain 32 (iqd32)	pp								1					1		1				1												3	0	0	0	chloroplast envelope cytosol microtubule associated complex nucleus plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G38540	FAD/NAD(P)-binding oxidoreductase family protein 	pp								1					1		1				1												3	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT1G26850	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1	1	1	1			4		1		1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus membrane trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT4G18030	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp					1		1	1	1	1			4				1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus plant-type cell wall trans-Golgi network vacuolar membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G35430	Tetratricopeptide repeat (TPR)-like superfamily protein 	pp								1					1																		1	0	#N/A	#N/A	#N/A	#N/A	#N/A	
+ARA7/AtRABF2b	AT4G19640	ARA7/AtRABF2b	pp							1	1		1	1		4			1												1			6	0	S-geranylgeranyl cysteine. {ECO:0000250}.	early endosome membrane vacuolar membrane 	early endosome endoplasmic reticulum endosome plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G47200	AtRABD2b	pp		1						1			1	1	3						1												5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	Golgi membrane 	Golgi apparatus plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT1G16920	AtRABA1b	pp		1						1		1			2							1								1			5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT4G18800	AtRABA1d	pp								1				1	2						1												3	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	early endosome membrane plasma membrane plasmodesma trans-Golgi network membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G20000	AAA-type ATPase family protein	pp								1					1																		1	0	0	cytoplasm 	proteasome complex 	0	Swiss	
+ARA7/AtRABF2b	AT4G34830	MRL1 Pentatricopeptide repeat (PPR) superfamily protein 	pp								1		1	1		3																		3	1	0	0	chloroplast 	0	Swiss	
+ARA7/AtRABF2b	AT1G55020	"LOX1, ATLOX1 lipoxygenase 1 "	pp								1					1																		1	0	0	0	plastid 	0	Swiss	
+ARA7/AtRABF2b	AT5G11980	COG8	pp								1		1			2																		2	0	0	0	plasmodesma 	0	trembl	
+ARA7/AtRABF2b	AT5G20490	"XIK, ATXIK, XI-17 Myosin family protein with Dil domain "	pp								1		1			2																		2	0	0	cytoplasm 	plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT1G20330	"SMT2, CVP1, FRL1 sterol methyltransferase 2 "	pp								1			1	1	3		1	1							1		1						7	1	0	0	endoplasmic reticulum Golgi apparatus 	0	Swiss	
+ARA7/AtRABF2b	AT1G36160	"ACC1, AT-ACC1, EMB22, GK, PAS3 acetyl-CoA carboxylase 1 "	pp								1		1	1		3																		3	0	0	cytosol 	plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G38600	"KAK, UPL3 HEAT repeat ;HECT-domain (ubiquitin-transferase) "	pp						1		1		1			3																		3	0	0	0	plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G22780	Adaptin ?2	pp	1							1					1																		2	0	0	coated pit 	plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT2G36810	ARM repeat superfamily protein 	pp								1					1																		1	0	0	0	plant-type vacuole membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G33650	"ADL2, DRP3A dynamin-related protein 3A "	pp						1		1		1			3																		3	0	0	mitochondrion 	peroxisome 	0	Swiss	
+ARA7/AtRABF2b	AT2G14120	DRP3B dynamin related protein 	pp								1					1																		1	0	0	mitochondrion 	peroxisome 	0	Swiss	
+ARA7/AtRABF2b	AT3G49720	unknown protein	pp						1		1	1				3		1		1						1			1					7	1	0	Golgi membrane 	chloroplast thylakoid membrane endosome Golgi apparatus membrane plasma membrane trans-Golgi network vacuolar membrane 	0	Swiss	
+ARA7/AtRABF2b	AT1G14670	Endomembrane protein 70 protein family 	pp							1	1	1				3				1						1			1					6	10	0	0	endosome Golgi apparatus membrane trans-Golgi network 	1	Swiss	
+ARA7/AtRABF2b	AT1G49340	ATPI4K ALPHA Phosphatidylinositol 3- and 4-kinase family protein 	pp								1		1			2																		2	0	0	0	perinuclear region of cytoplasm plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT2G20990	SYTA synaptotagmin A 	pp						1		1		1			3		1	1												1			6	1	0	endosome membrane plasma membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT4G31160	DCAF1 DDB1-CUL4 associated factor 1 	pp								1					1																		1	0	0	0	nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT1G22770	"GI, FB gigantea protein (GI) "	pp								1					1																		1	0	0	cytoplasm 	nucleoplasm nucleus 	0	Swiss	
+ARA7/AtRABF2b	ATCG00340	"PSAB Photosystem I, PsaA/PsaB protein"	pp						1	1	1					3																		3	11	0	chloroplast thylakoid membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT5G04130	GYRB2 DNA GYRASE B2 	pp								1		1	1		3																		3	0	0	0	mitochondrion 	0	Swiss	
+ARA7/AtRABF2b	AT4G30190	"AHA2, PMA2, HA2 H(+)-ATPase 2 "	pp		1					1	1		1			3							1			1						1		7	8	0	plasma membrane 	integral component of membrane 	0	Swiss	
+ARA7/AtRABF2b	AT3G09810	IDH-VI isocitrate dehydrogenase VI 	pp								1				1	2																		2	0	0	0	mitochondrion 	0	Swiss	
+ARA7/AtRABF2b	AT1G71410	ARM repeat superfamily protein 	pp								1			1		2																		2	0	0	0	membrane 	0	trembl	
+ARA7/AtRABF2b	AT5G25100	Endomembrane protein 70 protein family 	pp								1	1				2		1		1						1			1					6	10	0	0	0	1	Swiss	
+ARA7/AtRABF2b	AT4G04910	NSF type	pp		1						1	1	1		1	4						1				1					1			8	0	0	0	Golgi apparatus plasma membrane plasmodesma vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT3G58730	vacuolar ATP synthase subunit D (VATD) / V-ATPase D subunit / vacuolar proton pump D subunit (VATPD) 	pp		1					1	1					2								1		1		1						6	0	0	0	Golgi apparatus membrane plant-type vacuole plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT1G50500	VPS53	pp								1		1	1		3																		3	0	0	endosome membrane 	GARP complex Golgi membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G19490	VPS54	pp								1		1			2																		2	0	0	chloroplast 	GARP complex Golgi membrane 	0	Swiss	
+ARA7/AtRABF2b	AT1G13980	GNOM	pp								1		1			2																		2	0	0	cytosol endosome membrane 	endosome plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G13710	"SMT1, CPH sterol methyltransferase 1 "	pp								1	1				2			1															3	0	0	0	endoplasmic reticulum plasmodesma vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT4G31500	"CYP83B1, SUR2, RNT1, RED1, ATR4 cytochrome P450, family 83, subfamily B, polypeptide 1 "	pp								1					1			1									1						3	0	0	0	endoplasmic reticulum membrane mitochondrion plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G36250	ALDH3F1 aldehyde dehydrogenase 3F1 	pp								1					1			1									1						3	0	0	0	endoplasmic reticulum membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G46110	"APE2, TPT Glucose-6-phosphate/phosphate translocator-related "	pp								1			1		2																		2	9	0	chloroplast membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT1G44170	"ALDH3H1, ALDH4 aldehyde dehydrogenase 3H1 "	pp								1					1			1							1		1						4	0	0	0	endoplasmic reticulum Golgi apparatus membrane plasmodesma vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT2G26890	"GRV2, KAM2 DNAJ heat shock N-terminal domain-containing protein "	pp					1			1					1							1			1								4	0	0	0	endoplasmic reticulum Golgi apparatus intracellular membrane-bounded organelle late endosome late endosome membrane trans-Golgi network vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT1G71270	VPS52	pp						1	1	1		1	1		5																		5	0	0	endosome membrane 	endomembrane system GARP complex Golgi apparatus Golgi membrane 	0	Swiss	
+ARA7/AtRABF2b	AT3G62250	ubiquitin 5 (UBQ5)	pp								1					1										1								2	0	0	nucleus 	cytosolic small ribosomal subunit Golgi apparatus 	0	Swiss	
+ARA7/AtRABF2b	AT1G31730	Adaptin family protein 	pp								1					1																		1	0	0	coated pit Golgi apparatus 	cytosol plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT1G53750	RPT1A regulatory particle triple-A 1A 	pp							1	1					2																		2	0	0	0	cytosol plasma membrane proteasome complex 	0	Swiss	
+ARA7/AtRABF2b	AT3G28290	AT14A Protein of unknown function (DUF677) 	pp								1			1		2																		2	2	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT1G76850	SEC5A	pp								1					1																		1	0	0	0	cytosol plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT1G64740	TUA1 alpha-1 tubulin 	pp								1					1																		1	0	0	0	cytosol plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT2G32730	"26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit "	pp								1			1		2																		2	1	0	0	cytosol proteasome complex 	0	Swiss	
+ARA7/AtRABF2b	AT3G62830	"UXS2, ATUXS2, AUD1 NAD(P)-binding Rossmann-fold superfamily protein "	pp					1			1	1				2		1		1						1								6	1	0	Golgi cisterna membrane 	endosome Golgi apparatus Golgi membrane plasma membrane trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT1G19360	Nucleotide-diphospho-sugar transferase family protein 	pp								1	1				2		1		1						1					1			6	1	0	0	endosome Golgi apparatus trans-Golgi network 	0	trembl	
+ARA7/AtRABF2b	AT5G35160	Endomembrane protein 70 protein family 	pp		1						1	1				2				1						1			1					6	10	0	0	0	1	Swiss	
+ARA7/AtRABF2b	AT1G10950	"TMN1, AtTMN1 transmembrane nine 1 "	pp								1	1				2				1						1			1					5	10	0	0	cis-Golgi network endosome Golgi apparatus Golgi medial cisterna membrane trans-Golgi network 	1	Swiss	
+ARA7/AtRABF2b	AT3G56110	AtPRA1.B1	pp		1						1	1				2										1								4	4	0	endosome membrane 	endoplasmic reticulum Golgi apparatus 	0	Swiss	
+ARA7/AtRABF2b	AT3G13772	"TMN7, AtTMN7 transmembrane nine 7 "	pp								1					1				1						1			1					4	10	0	0	cytoplasm endosome Golgi apparatus nucleus trans-Golgi network vacuolar membrane 	1	Swiss	
+ARA7/AtRABF2b	AT3G25800	"PDF1, PR 65, PP2AA2 protein phosphatase 2A  subunit A2 "	pp								1					1																		1	0	0	0	cytosol plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G32285	CAP1	pp								1					1						1												2	0	0	clathrin-coated vesicle coated pit Golgi apparatus 	cytosol nucleus plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	ATCG00020	PSBA photosystem II reaction center protein A	pp						1		1					2																		2	7	0	chloroplast thylakoid membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT3G07160	"ATGSL10, gsl10, CALS9 glucan synthase-like 10 "	pp		1			1			1		1			2		1					1			1						1		8	16	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT4G32410	"CESA1, RSW1, AtCESA1 cellulose synthase 1 "	pp		1			1			1		1			2		1		1						1					1			8	6	0	0	endosome Golgi apparatus plasma membrane trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT2G36850	"ATGSL08, GSL8, GSL08, ATGSL8, CHOR glucan synthase-like 8 "	pp		1						1		1			2		1					1			1						1		7	15	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT5G05170	"CESA3, IXR1, ATCESA3, ATH-B, CEV1 Cellulose synthase family protein "	pp		1						1		1			2		1		1						1					1			7	8	0	0	endosome Golgi apparatus plasma membrane plasmodesma trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT3G51550	FER Malectin/receptor-like protein kinase family protein 	pp								1		1			2		1					1									1		5	2	0	0	filiform apparatus membrane plasma membrane plasmodesma 	1	Swiss	
+ARA7/AtRABF2b	AT1G01960	BIG3/EDA10	pp						1		1		1	1		4																		4	0	0	membrane 	cytosol nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT5G59730	EXO70H7	pp								1					1																		1	0	0	0	cytosol nucleus 	0	trembl	
+ARA7/AtRABF2b	AT1G70320	UPL2 ubiquitin-protein ligase 2 	pp								1			1		2																		2	0	0	0	cytosol mitochondrion nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT4G38630	"RPN10, MCB1, ATMCB1, MBP1 regulatory particle non-ATPase 10 "	pp								1			1		2																		2	0	0	0	cytosol membrane proteasome complex 	0	Swiss	
+ARA7/AtRABF2b	AT3G02260	"BIG, DOC1, TIR3, UMB1, ASA1, LPR1, CRM1 auxin transport protein (BIG) "	pp						1	1	1		1	1		5						1												6	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT3G03960	TCP-1/cpn60 chaperonin family protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT4G03550	"ATGSL05, GSL05, ATGSL5, PMR4, GSL5 glucan synthase-like 5 "	pp		1			1			1		1			2							1			1						1		7	12	0	0	Golgi apparatus plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT3G28860	"ATMDR1, ATMDR11, PGP19, MDR11, MDR1, ATPGP19, ABCB19, ATABCB19 ATP binding cassette subfamily B19 "	pp		1						1		1			2							1									1		5	10	0	0	plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT3G63460	SEC31B	pp							1	1		1			3																		3	0	0	endoplasmic reticulum Golgi apparatus 	cytosol membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT1G62020	Coatomer ? (RET1p)	pp							1	1		1	1	1	5						1												6	0	0	0	cytosol membrane plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT3G19770	VPS9a	pp					1			1					1																		2	0	0	0	cytosol membrane nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT2G21390	Coatomer ? (RET1p)	pp							1	1		1	1		4																		4	0	0	0	cytosol membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G31490	Coatomer ß (SEC26p)	pp								1					1																		1	0	0	0	cytosol membrane 	0	Swiss	
+ARA7/AtRABF2b	AT3G27530	GC6	pp								1					1																		1	0	0	0	cytosol Golgi apparatus Golgi stack 	0	Swiss	
+ARA7/AtRABF2b	AT3G10380	SEC8	pp						1	1	1		1	1		5																		5	0	0	cell wall phragmoplast 	cytosol exocyst plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT5G06140	AtSNX1	pp								1					1																		1	0	0	Golgi apparatus late endosome membrane 	cytosol endosome intracellular membrane-bounded organelle membrane multivesicular body retromer complex 	0	Swiss	
+ARA7/AtRABF2b	AT3G43300	MIN7/BIG5	pp					1			1		1	1		3																		4	0	0	early endosome membrane 	cytosol early endosome trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT5G16300	COG1/VPS51	pp								1		1			2																		2	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT3G20050	"ATTCP-1, TCP-1 T-complex protein 1 alpha subunit "	pp						1		1		1	1		4			1															5	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT5G58410	HEAT/U-box domain-containing protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT4G24550	Clathrin adaptor complexes medium subunit family protein 	pp							1	1			1		3																		3	0	0	coated pit Golgi apparatus 	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT4G39520	GTP-binding protein-related 	pp								1			1	1	3																		3	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT1G48900	"Signal recognition particle, SRP54 subunit protein "	pp								1			1		2																		2	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT2G44100	GDI1	pp								1			1		2						1												3	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT3G50590	TWD40-1	pp								1		1			2																		2	2	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G18190	TCP-1/cpn60 chaperonin family protein 	pp								1			1		2						1												3	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT3G60860	BIG2 	pp								1		1			2																		2	0	0	membrane 	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT5G21326	Ca2+regulated serine-threonine protein kinase family protein 	pp								1		1			2																		2	0	0	plasma membrane 	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT4G39080	VHA-A3 vacuolar proton ATPase A3 	pp		1						1				1	2		1						1		1		1						7	6	0	0	chloroplast chloroplast envelope Golgi apparatus membrane plant-type vacuole plant-type vacuole membrane plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT4G36440	unknown protein	pp		1						1				1	2		1																4	2	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT1G71220	"EBS1, UGGT, PSL2 UDP-glucose:glycoprotein glucosyltransferases;transferases, transferring hexosyl groups;transferases, transferring glycosyl groups "	pp								1		1			2			1								1							4	1	0	endoplasmic reticulum lumen 	0	1	Swiss	
+ARA7/AtRABF2b	AT5G42220	Ubiquitin-like superfamily protein 	pp								1		1			2																		2	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT5G51430	COG7	pp								1		1			2																		2	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT3G59020	ARM repeat superfamily protein 	pp							1	1					2																		2	0	0	0	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT1G67930	COG5	pp								1					1																		1	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT1G80490	TPR1 TOPLESS-related 1 	pp								1					1																		1	0	0	nucleus 	cytosol 	0	Swiss	
+ARA7/AtRABF2b	AT3G08943	ARM repeat superfamily protein 	pp								1					1																		1	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT3G12050	Aha1 domain-containing protein 	pp								1					1																		1	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT5G13560	unknown protein	pp								1					1																		1	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT5G17020	"XPO1A, ATCRM1, ATXPO1, XPO1, HIT2 exportin 1A "	pp								1					1																		1	0	0	0	cytosol 	0	trembl	
+ARA7/AtRABF2b	AT1G50030	TOR target of rapamycin 	pp								1		1			2																		2	0	0	0	cytoplasm nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT2G39260	binding;RNA binding 	pp								1					1																		1	0	0	perinuclear region of cytoplasm 	cytoplasm nucleolus 	0	Swiss	
+ARA7/AtRABF2b	AT3G26030	ATB' DELTA serine/threonine protein phosphatase 2A 55 kDa regulatory subunit B prime delta 	pp								1					1																		1	0	0	0	cytoplasm nucleolus 	0	Swiss	
+ARA7/AtRABF2b	AT2G27600	VPS4/SKD1	pp								1			1		2																		2	0	0	0	cytoplasm multivesicular body nucleus plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT3G18780	actin 2 (ACT2)	pp							1	1					2																		2	0	0	cytoskeleton 	cytoplasm membrane nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT3G05530	"RPT5A, ATS6A.2 regulatory particle triple-A ATPase 5A "	pp							1	1			1	1	4																		4	0	0	0	cytoplasm cytosol nucleus proteasome complex 	0	Swiss	
+ARA7/AtRABF2b	AT3G57290	"EIF3E, TIF3E1, ATEIF3E-1, INT-6, ATINT6, INT6 eukaryotic translation initiation factor 3E "	pp								1					1																		1	0	0	0	cytoplasm cytosol nucleus plasma membrane 	0	trembl	
+ARA7/AtRABF2b	AT2G31660	"SAD2, URM9 ARM repeat superfamily protein "	pp							1	1			1		3																		3	0	0	0	cytoplasm cytosol nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT3G02530	TCP-1/cpn60 chaperonin family protein 	pp							1	1				1	3																		3	0	0	0	cytoplasm cytosol membrane 	0	Swiss	
+ARA7/AtRABF2b	AT4G24800	MA3 domain-containing protein 	pp								1					1										1								2	0	0	0	cytoplasm cytosol Golgi apparatus 	0	trembl	
+ARA7/AtRABF2b	AT5G13110	G6PD2 glucose-6-phosphate dehydrogenase 2 	pp								1		1			2																		2	0	0	0	chloroplast stroma 	0	Swiss	
+ARA7/AtRABF2b	AT5G05200	Protein kinase superfamily protein 	pp								1					1																		1	0	0	0	chloroplast plastoglobule 	0	Swiss	
+ARA7/AtRABF2b	AT3G55200	Cleavage and polyadenylation specificity factor (CPSF) A subunit protein 	pp								1					1																		1	0	0	0	chloroplast plasmodesma 	0	trembl	
+ARA7/AtRABF2b	AT5G51200	Protein of unknown function (DUF3414) 	pp								1					1																		1	0	0	0	chloroplast nuclear envelope 	0	Swiss	
+ARA7/AtRABF2b	AT5G08740	NDC1 NAD(P)H dehydrogenase C1 	pp								1					1																		1	0	0	mitochondrial inner membrane 	chloroplast mitochondrion plastoglobule 	0	Swiss	
+ARA7/AtRABF2b	AT2G33150	"PKT3, PED1, KAT2 peroxisomal 3-ketoacyl-CoA thiolase 3 "	pp			1					1					1																		2	0	0	glyoxysome 	chloroplast membrane mitochondrion nucleolus peroxisome vacuolar membrane 	0	Swiss	
+ARA7/AtRABF2b	AT1G20260	"ATPase, V1 complex, subunit B protein"	pp							1	1			1	1	4										1								5	0	0	0	chloroplast Golgi apparatus vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT4G20890	TUB9 tubulin beta-9 chain 	pp								1					1						1												2	0	0	0	chloroplast Golgi apparatus plasma membrane plasmodesma vacuolar membrane 	0	Swiss	
+ARA7/AtRABF2b	AT1G12840	"DET3, ATVHA-C vacuolar ATP synthase subunit C (VATC) / V-ATPase C subunit / vacuolar proton pump C subunit (DET3) "	pp		1						1					1								1		1							1	5	0	0	0	"chloroplast Golgi apparatus plant-type vacuole plasma membrane vacuolar membrane vacuolar proton-transporting V-type ATPase, V1 domain vacuole "	0	Swiss	
+ARA7/AtRABF2b	AT5G08690	ATP synthase alpha/beta family protein 	pp							1	1	1		1	1	5																		5	0	0	0	"chloroplast envelope mitochondrial proton-transporting ATP synthase complex mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) mitochondrial respiratory chain complex I mitochondrion nucleolus "	0	Swiss	
+ARA7/AtRABF2b	AT5G39410	Saccharopine dehydrogenase  	pp								1					1							1								1			3	0	0	mitochondrial membrane 	chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT3G12110	ACT11 actin-11 	pp								1					1																		1	0	0	0	chloroplast envelope chloroplast stroma mitochondrion plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT5G47690	binding 	pp								1					1																		1	0	0	0	chloroplast cytosol mitochondrion nucleus 	0	trembl	
+ARA7/AtRABF2b	AT1G23190	PGM3 Phosphoglucomutase/phosphomannomutase family protein 	pp								1		1	1		3																		3	0	0	0	chloroplast cytoplasm cytosol nucleus plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G01530	LHCB4.1 light harvesting complex photosystem II 	pp							1	1					2																		2	0	0	0	chloroplast chloroplast thylakoid chloroplast thylakoid membrane membrane plastoglobule thylakoid 	0	Swiss	
+ARA7/AtRABF2b	AT4G33510	DHS2 3-deoxy-d-arabino-heptulosonate 7-phosphate synthase 	pp								1			1		2																		2	0	0	0	chloroplast chloroplast thylakoid 	0	Swiss	
+ARA7/AtRABF2b	AT1G32500	"ATNAP6, NAP6 non-intrinsic ABC protein 6 "	pp								1					1																		1	0	0	0	chloroplast chloroplast stroma plastid 	0	Swiss	
+ARA7/AtRABF2b	AT1G74960	"FAB1, KAS2, ATKAS2 fatty acid biosynthesis 1 "	pp							1	1			1		3																		3	0	0	0	chloroplast chloroplast stroma 	0	Swiss	
+ARA7/AtRABF2b	AT5G53460	GLT1 NADH-dependent glutamate synthase 1 	pp								1		1			2																		2	0	0	0	chloroplast chloroplast stroma 	0	Swiss	
+ARA7/AtRABF2b	AT1G56050	GTP-binding protein-related 	pp								1					1																		1	0	0	0	chloroplast chloroplast stroma 	0	trembl	
+ARA7/AtRABF2b	AT2G34460	NAD(P)-binding Rossmann-fold superfamily protein 	pp								1			1		2																		2	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane plastoglobule 	0	Swiss	
+ARA7/AtRABF2b	AT4G04640	"ATPC1 ATPase, F1 complex, gamma subunit protein "	pp								1	1		1		3																		3	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane thylakoid 	0	Swiss	
+ARA7/AtRABF2b	AT3G23400	FIB4 Plastid-lipid associated protein PAP / fibrillin family protein 	pp							1	1					2							1									1		4	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane nucleus plasma membrane plastoglobule thylakoid thylakoid lumen 	0	Swiss	
+ARA7/AtRABF2b	AT5G42650	"AOS, CYP74A, DDE2 allene oxide synthase "	pp								1			1		2																		2	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane mitochondrion plastoglobule thylakoid 	0	Swiss	
+ARA7/AtRABF2b	AT3G55250	unknown protein	pp								1					1																		1	0	0	0	chloroplast chloroplast envelope chloroplast stroma mitochondrion nucleus 	0	trembl	
+ARA7/AtRABF2b	AT1G61250	SC3 secretory carrier 3 	pp		1			1			1					1		1		1												1		6	4	0	transport vesicle membrane 	endosome Golgi apparatus membrane plasma membrane trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT3G05710	SYP43	pp		1			1			1					1		1		1											1			6	1	0	0	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT2G18960	"AHA1, PMA, OST2, HA1 H(+)-ATPase 1 "	pp		1						1					1		1					1			1						1		6	10	0	0	Golgi apparatus integral component of membrane membrane nucleus plasma membrane plasmodesma vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT5G49720	"ATGH9A1, TSD1, DEC, KOR, RSW2, IRX2, KOR1, GH9A1 glycosyl hydrolase 9A1 "	pp		1						1					1		1		1						1					1			6	1	0	0	cell plate early endosome endosome Golgi apparatus plasma membrane trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT3G56940	"CRD1, CHL27, ACSF dicarboxylate diiron protein, putative (Crd1) "	pp		1						1					1																		2	0	0	0	chloroplast chloroplast envelope chloroplast inner membrane chloroplast thylakoid chloroplast thylakoid membrane 	0	Swiss	
+ARA7/AtRABF2b	AT5G57110	"ACA8, AT-ACA8 autoinhibited Ca2+ -ATPase, isoform 8 "	pp								1					1		1					1									1		4	6	0	0	membrane plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	AT4G00740	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp								1					1		1		1						1			1					5	1	0	Golgi membrane 	endosome Golgi apparatus integral component of membrane membrane trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT1G25490	"RCN1, REGA, ATB BETA BETA, EER1 ARM repeat superfamily protein "	pp								1		1	1		3																		3	0	0	0	cell wall nucleus plasma membrane 	0	Swiss	1
+ARA7/AtRABF2b	AT2G14720	VSR4	pp		1			1			1					1				1						1					1			6	1	0	clathrin-coated vesicle membrane Golgi membrane late endosome membrane 	endosome Golgi apparatus trans-Golgi network vacuole 	1	Swiss	
+ARA7/AtRABF2b	AT5G43010	RPT4A regulatory particle triple-A ATPase 4A 	pp								1			1		2																		2	0	0	0	cell wall cytosol proteasome complex 	0	Swiss	1
+ARA7/AtRABF2b	AT2G38360	AtPRA1.B4	pp		1						1					1				1						1								4	3	0	endosome membrane 	cytosol endoplasmic reticulum endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT4G14960	TUA6 Tubulin/FtsZ family protein 	pp								1					1																		1	0	0	0	cell wall cytosol membrane microtubule nucleolus plasma membrane plasmodesma tubulin complex vacuole 	0	Swiss	1
+ARA7/AtRABF2b	AT1G12000	Phosphofructokinase family protein 	pp								1		1	1		3																		3	0	0	0	cell wall cytosol membrane 	0	Swiss	1
+ARA7/AtRABF2b	AT3G14210	ESM1 epithiospecifier modifier 1 	pp								1					1																		1	1	0	0	apoplast chloroplast chloroplast envelope cytosolic ribosome membrane nucleus peroxisome plasmodesma vacuole 	1	Swiss	
+ARA7/AtRABF2b	AT2G29550	TUB7 tubulin beta-7 chain 	pp								1					1							1			1						1		4	0	0	0	cell wall cytosol Golgi apparatus plasma membrane plasmodesma vacuole 	0	Swiss	1
+ARA7/AtRABF2b	AT5G19820	emb2734 ARM repeat superfamily protein 	pp						1	1	1	1	1	1		6																		6	0	0	0	cell wall cytosol 	0	trembl	1
+ARA7/AtRABF2b	AT1G70940	"PIN3, ATPIN3 Auxin efflux carrier family protein "	pp								1					1																		1	9	0	0	cell surface lateral plasma membrane plasma membrane vesicle membrane 	0	Swiss	
+ARA7/AtRABF2b	AT2G41560	"ACA4 autoinhibited Ca(2+)-ATPase, isoform 4 "	pp								1					1								1									1	3	8	0	0	chloroplast plant-type vacuole plant-type vacuole membrane vacuolar membrane vacuole 	0	Swiss	
+ARA7/AtRABF2b	AT3G01780	TPLATE	pp	1						1	1					2							1											4	0	0	0	cell plate cytoplasm cytosol nucleus phragmoplast plasma membrane plasmodesma 	0	Swiss	
+ARA7/AtRABF2b	ATCG00280	PSBC photosystem II reaction center protein C	pp								1					1																		1	5	0	chloroplast thylakoid membrane 	0	0	Swiss	
+ARA7/AtRABF2b	ATCG00680	PSBB photosystem II reaction center protein B	pp								1					1																		1	5	0	chloroplast thylakoid membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT2G20190	"ATCLASP, CLASP CLIP-associated protein "	pp								1			1		2																		2	0	0	0	cell cortex phragmoplast plasma membrane plasmodesma spindle microtubule 	0	Swiss	
+ARA7/AtRABF2b	AT1G65930	cICDH cytosolic NADP+-dependent isocitrate dehydrogenase 	pp								1					1						1												2	0	0	0	apoplast chloroplast stroma cytosol plasma membrane plasmodesma 	0	Swiss	1
+ARA7/AtRABF2b	AT5G61410	"RPE, EMB2728 D-ribulose-5-phosphate-3-epimerase "	pp								1					1																		1	0	0	0	apoplast chloroplast chloroplast envelope chloroplast stroma stromule thylakoid 	0	trembl	1
+ARA7/AtRABF2b	AT5G08280	HEMC hydroxymethylbilane synthase 	pp								1			1	1	3																		3	0	0	0	apoplast chloroplast chloroplast envelope chloroplast stroma 	0	Swiss	1
+ARA7/AtRABF2b	AT5G44340	TUB4 tubulin beta chain 4 	pp								1					1							1											2	0	0	0	apoplast cell wall chloroplast stroma cytosol Golgi apparatus plasma membrane plasmodesma 	0	Swiss	1
+ARA7/AtRABF2b	AT1G20620	"CAT3, SEN2, ATCAT3 catalase 3 "	pp			1				1	1	1				3																		4	0	0	0	apoplast cell wall chloroplast chloroplast envelope chloroplast stroma cytosolic ribosome membrane mitochondrion peroxisome plasma membrane plasmodesma vacuole 	0	Swiss	1
+ARA7/AtRABF2b	AT3G12780	PGK1 phosphoglycerate kinase 1 	pp								1			1	1	3																		3	0	0	0	apoplast cell wall chloroplast chloroplast envelope chloroplast stroma cytoplasm cytosol membrane mitochondrion nucleus stromule thylakoid 	0	Swiss	1
+ARA7/AtRABF2b	AT2G39730	RCA rubisco activase 	pp		1						1					1																		2	0	0	0	apoplast cell wall chloroplast chloroplast envelope chloroplast stroma chloroplast thylakoid membrane membrane nucleus plastoglobule stromule thylakoid 	0	Swiss	1
+ARA7/AtRABF2b	AT5G20890	TCP-1/cpn60 chaperonin family protein 	pp								1					1																		1	0	0	0	anchored component of plasma membrane cell wall cytosol 	0	Swiss	1
+ARA7/AtRABF2b	AT2G16950	"TRN1, ATTRN1 transportin 1 "	pp						1	1	1		1	1		5																		5	0	0	cytoplasm nucleoplasm 	0	0	Swiss	
+ARA7/AtRABF2b	AT5G65010	ASN2 asparagine synthetase 2 	pp						1	1	1		1	1		5																		5	0	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT1G52360	Coatomer ß ' (SEC27p)	pp							1	1		1	1		4																		4	0	0	COPI-coated vesicle membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT1G18270	ketose-bisphosphate aldolase class-II family protein 	pp								1		1	1		3																		3	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G49830	EXO84B/VPS51	pp								1			1		2																		2	0	0	cell wall cytosol phragmoplast 	0	0	Swiss	
+ARA7/AtRABF2b	AT1G64790	ILA ILITYHIA 	pp								1		1	1		3																		3	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G09900	"EMB2107, RPN5A, MSA 26S proteasome regulatory subunit, putative (RPN5) "	pp							1	1			1		3																		3	0	0	cytoplasm nucleus 	0	0	Swiss	
+ARA7/AtRABF2b	AT1G02080	transcription regulators 	pp						1		1		1			3																		3	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G07360	TASH3	pp						1		1		1			3																		3	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G06530	ARM repeat superfamily protein 	pp						1		1		1			3																		3	0	0	nucleolus 	0	0	Swiss	
+ARA7/AtRABF2b	AT5G65950	unknown protein	pp		1			1		1	1		1			3																		5	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G40730	Protein kinase family protein with ARM repeat domain 	pp						1		1					2																		2	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G52140	tetratricopeptide repeat (TPR)-containing protein 	pp						1		1					2																		2	0	0	cytoplasm 	0	0	Swiss	
+ARA7/AtRABF2b	AT1G67140	SWEETIE HEAT repeat-containing protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G26780	ARM repeat superfamily protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G45540	WD-40 repeat family protein / beige-related 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT4G01800	"AGY1, AtcpSecA, SECA1 Albino or Glassy Yellow 1 "	pp								1		1			2																		2	0	0	chloroplast stroma chloroplast thylakoid membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT4G27640	ARM repeat superfamily protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT1G31850	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp								1					1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA7/AtRABF2b	AT3G48890	"ATMP2, ATMAPR3, MSBP2, MAPR3 membrane-associated progesterone binding protein 3 "	pp								1					1			1									1						3	1	0	plasma membrane 	chloroplast thylakoid membrane endoplasmic reticulum nucleus 	0	Swiss	
+ARA7/AtRABF2b	AT3G51050	FG-GAP repeat-containing protein 	pp								1					1			1							1					1			4	1	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G28200	Peroxidase superfamily protein 	pp								1					1																		1	0	0	extracellular region 	cytosol plant-type cell wall 	1	Swiss	
+ARA7/AtRABF2b	AT5G27970	ARM repeat superfamily protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G39590	TLD-domain containing nucleolar protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G17770	"ATCBR, CBR1, CBR NADH:cytochrome B5 reductase 1 "	pp								1					1			1									1						3	1	0	mitochondrial outer membrane 	endoplasmic reticulum plant-type cell wall plasma membrane 	0	Swiss	
+ARA7/AtRABF2b	AT1G03160	FZL FZO-like 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT1G48090	calcium-dependent lipid-binding family protein 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT1G55860	UPL1 ubiquitin-protein ligase 1 	pp								1					1																		1	0	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT2G17930	Phosphatidylinositol 3- and 4-kinase family protein with FAT domain 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G18940	Tetratricopeptide repeat (TPR)-like superfamily protein 	pp								1					1																		1	0	0	chloroplast 	0	0	Swiss	
+ARA7/AtRABF2b	AT2G22125	CSI1 binding 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G27900	unknown protein	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G36360	Galactose oxidase/kelch repeat superfamily protein 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT2G46560	transducin family protein / WD-40 repeat family protein 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G03110	"XPO1B, CRM1B exportin 1B "	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G04490	unknown protein	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G06670	binding 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G10350	P-loop containing nucleoside triphosphate hydrolases superfamily protein 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G13920	"EIF4A1, RH4, TIF4A1 eukaryotic translation initiation factor 4A1 "	pp								1					1																		1	0	0	cytoplasm 	0	0	Swiss	
+ARA7/AtRABF2b	AT3G20720	unknown protein	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT3G27670	RST1 ARM repeat superfamily protein 	pp								1					1																		1	0	0	plasma membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT4G02030	VPS51	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT4G24840	COG2	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT4G31850	PGR3 proton gradient regulation 3 	pp								1					1																		1	0	0	chloroplast 	0	0	Swiss	
+ARA7/AtRABF2b	AT5G03540	EXO70A1	pp								1					1																		1	0	0	cell wall cytosol phragmoplast plasma membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT5G06120	ARM repeat superfamily protein 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G06220	LETM1-like protein 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G08470	PEX1 peroxisome 1 	pp								1					1																		1	0	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT5G18420	unknown protein	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA7/AtRABF2b	AT5G24350	Secretory pathway Sec39 domain protein	pp								1					1																		1	0	0	endoplasmic reticulum membrane 	0	0	Swiss	
+ARA7/AtRABF2b	AT5G43900	MYA2 myosin 2 	pp								1					1																		1	0	0	cytoplasm 	0	0	Swiss	
+ARA7/AtRABF2b	AT5G62690	TUB2 tubulin beta chain 2 	pp								1					1																		1	0	0	0	0	0	Swiss	
+ARA7/AtRABF2b	AT5G63190	MA3 domain-containing protein 	pp								1					1																		1	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT1G77140	"VPS45, ATVPS45 vacuolar protein sorting 45 "	pp		1		1	1					1		1	2																		5	0	0	0	plant-type vacuole membrane trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT1G30450	"CCC1, ATCCC1, HAP5 cation-chloride co-transporter 1 "	pp		1		1	1			1		1			2				1									1					7	9	0	0	endosome Golgi apparatus plasma membrane trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT4G30260	YIP4b	pp		1		1	1			1		1			2				1											1			7	5	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT3G58460	"ATRBL15, RBL15 RHOMBOID-like protein 15 "	pp				1	1			1		1			2																		4	6	0	0	0	0	Swiss	
+ARA5/AtRABD2a	AT1G59870	"PEN3, PDR8, ATPDR8, ABCG36, ATABCG36 ABC-2 and Plant PDR ABC-type transporter family protein "	pp		1			1	1	1	1	1	1	1	1	7		1					1									1		12	13	0	0	chloroplast chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane 	0	Swiss	
+ARA5/AtRABD2a	AT5G53480	ARM repeat superfamily protein 	pp						1	1	1	1	1	1	1	7		1																8	0	0	0	chloroplast cytoplasm nucleus 	0	Swiss	
+ARA5/AtRABD2a	AT2G46520	"cellular apoptosis susceptibility protein, putative / importin-alpha re-exporter, putative "	pp							1	1	1	1	1	1	6		1																7	0	0	nucleus 	cytosol membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT5G26360	TCP-1/cpn60 chaperonin family protein 	pp								1		1	1		3		1				1												5	0	0	0	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT2G33120	VAMP722/SAR1	pp							1	1	1	1	1		5																		5	1	0	0	0	0	Swiss	
+ARA5/AtRABD2a	AT5G05010	Coatomer ? (RET2p)	pp								1		1			2		1																3	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT5G12370	SEC10	pp								1		1			2		1																3	0	0	0	exocyst membrane plasma membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT1G29470	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp								1	1	1	1		4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT5G56030	"HSP81-2, ERD8, HSP90.2, AtHsp90.2 heat shock protein 81-2 "	pp										1		1	2		1				1												4	0	0	cytoplasm 	0	0	Swiss	
+ARA5/AtRABD2a	AT1G28200	FIP1 FH interacting protein 1 	pp										1			1		1				1												3	0	0	0	0	0	Swiss	
+ARA5/AtRABD2a	AT5G15680	ARM repeat superfamily protein 	pp										1			1		1																2	0	0	0	membrane plasma membrane 	0	trembl	
+ARA5/AtRABD2a	AT1G26850	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1	1	1	1			4		1		1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus membrane trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT4G18030	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp					1		1	1	1	1			4				1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus plant-type cell wall trans-Golgi network vacuolar membrane 	0	Swiss	
+ARA5/AtRABD2a	AT3G23300	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1		1	1		1	4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus nucleus trans-Golgi network vacuolar membrane 	0	Swiss	
+ARA5/AtRABD2a	AT4G19640	ARA7/AtRABF2b	pp							1	1		1	1		4			1												1			6	0	S-geranylgeranyl cysteine. {ECO:0000250}.	early endosome membrane vacuolar membrane 	early endosome endoplasmic reticulum endosome plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT3G46830	AtRABA2c	pp		1								1	1		2						1										1		5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	endosome membrane Golgi apparatus 	cell plate cytosol endosome plasma membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT1G16920	AtRABA1b	pp		1						1		1			2							1								1			5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	plasma membrane vacuolar membrane vacuole 	0	Swiss	
+ARA5/AtRABD2a	AT1G02130	ARA5/AtRABD2a	pp		1								1			1						1												3	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	Golgi membrane plasma membrane trans-Golgi network membrane vacuole 	0	Swiss	
+ARA5/AtRABD2a	AT4G34830	MRL1 Pentatricopeptide repeat (PPR) superfamily protein 	pp								1		1	1		3																		3	1	0	0	chloroplast 	0	Swiss	
+ARA5/AtRABD2a	AT5G11980	COG8	pp								1		1			2																		2	0	0	0	plasmodesma 	0	trembl	
+ARA5/AtRABD2a	AT5G20490	"XIK, ATXIK, XI-17 Myosin family protein with Dil domain "	pp								1		1			2																		2	0	0	cytoplasm 	plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT1G36160	"ACC1, AT-ACC1, EMB22, GK, PAS3 acetyl-CoA carboxylase 1 "	pp								1		1	1		3																		3	0	0	cytosol 	plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT4G38600	"KAK, UPL3 HEAT repeat ;HECT-domain (ubiquitin-transferase) "	pp						1		1		1			3																		3	0	0	0	plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT5G64330	"NPH3, RPT3, JK218 Phototropic-responsive NPH3 family protein "	pp										1			1																		1	0	0	0	plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT4G33650	"ADL2, DRP3A dynamin-related protein 3A "	pp						1		1		1			3																		3	0	0	mitochondrion 	peroxisome 	0	Swiss	
+ARA5/AtRABD2a	AT1G49340	ATPI4K ALPHA Phosphatidylinositol 3- and 4-kinase family protein 	pp								1		1			2																		2	0	0	0	perinuclear region of cytoplasm plasma membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT2G20990	SYTA synaptotagmin A 	pp						1		1		1			3		1	1												1			6	1	0	endosome membrane plasma membrane 	0	0	Swiss	
+ARA5/AtRABD2a	AT5G04130	GYRB2 DNA GYRASE B2 	pp								1		1	1		3																		3	0	0	0	mitochondrion 	0	Swiss	
+ARA5/AtRABD2a	AT4G30190	"AHA2, PMA2, HA2 H(+)-ATPase 2 "	pp		1					1	1		1			3							1			1						1		7	8	0	plasma membrane 	integral component of membrane 	0	Swiss	
+ARA5/AtRABD2a	AT4G04910	NSF type	pp		1						1	1	1		1	4						1				1					1			8	0	0	0	Golgi apparatus plasma membrane plasmodesma vacuole 	0	Swiss	
+ARA5/AtRABD2a	AT1G50500	VPS53	pp								1		1	1		3																		3	0	0	endosome membrane 	GARP complex Golgi membrane 	0	Swiss	
+ARA5/AtRABD2a	AT4G19490	VPS54	pp								1		1			2																		2	0	0	chloroplast 	GARP complex Golgi membrane 	0	Swiss	
+ARA5/AtRABD2a	AT1G13980	GNOM	pp								1		1			2																		2	0	0	cytosol endosome membrane 	endosome plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT1G71270	VPS52	pp						1	1	1		1	1		5																		5	0	0	endosome membrane 	endomembrane system GARP complex Golgi apparatus Golgi membrane 	0	Swiss	
+ARA5/AtRABD2a	AT5G45510	Leucine-rich repeat (LRR) family protein 	pp										1			1							1											2	0	0	0	cytosol plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT5G23060	CaS calcium sensing receptor 	pp						1				1			2																		2	1	0	0	chloroplast chloroplast thylakoid chloroplast thylakoid membrane mitochondrion thylakoid 	0	Swiss	
+ARA5/AtRABD2a	AT3G07160	"ATGSL10, gsl10, CALS9 glucan synthase-like 10 "	pp		1			1			1		1			2		1					1			1						1		8	16	0	0	0	0	Swiss	
+ARA5/AtRABD2a	AT4G32410	"CESA1, RSW1, AtCESA1 cellulose synthase 1 "	pp		1			1			1		1			2		1		1						1					1			8	6	0	0	endosome Golgi apparatus plasma membrane trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT2G36850	"ATGSL08, GSL8, GSL08, ATGSL8, CHOR glucan synthase-like 8 "	pp		1						1		1			2		1					1			1						1		7	15	0	0	0	0	Swiss	
+ARA5/AtRABD2a	AT5G05170	"CESA3, IXR1, ATCESA3, ATH-B, CEV1 Cellulose synthase family protein "	pp		1						1		1			2		1		1						1					1			7	8	0	0	endosome Golgi apparatus plasma membrane plasmodesma trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT3G51550	FER Malectin/receptor-like protein kinase family protein 	pp								1		1			2		1					1									1		5	2	0	0	filiform apparatus membrane plasma membrane plasmodesma 	1	Swiss	
+ARA5/AtRABD2a	AT1G01960	BIG3/EDA10	pp						1		1		1	1		4																		4	0	0	membrane 	cytosol nucleus 	0	Swiss	
+ARA5/AtRABD2a	AT3G02260	"BIG, DOC1, TIR3, UMB1, ASA1, LPR1, CRM1 auxin transport protein (BIG) "	pp						1	1	1		1	1		5						1												6	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT3G05280	YIP5b	pp		1			1					1		1	2										1								5	5	0	0	cytosol Golgi apparatus 	0	trembl	
+ARA5/AtRABD2a	AT3G03960	TCP-1/cpn60 chaperonin family protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT4G03550	"ATGSL05, GSL05, ATGSL5, PMR4, GSL5 glucan synthase-like 5 "	pp		1			1			1		1			2							1			1						1		7	12	0	0	Golgi apparatus plasma membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT3G28860	"ATMDR1, ATMDR11, PGP19, MDR11, MDR1, ATPGP19, ABCB19, ATABCB19 ATP binding cassette subfamily B19 "	pp		1						1		1			2							1									1		5	10	0	0	plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT3G63460	SEC31B	pp							1	1		1			3																		3	0	0	endoplasmic reticulum Golgi apparatus 	cytosol membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT1G62020	Coatomer ? (RET1p)	pp							1	1		1	1	1	5						1												6	0	0	0	cytosol membrane plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT2G21390	Coatomer ? (RET1p)	pp							1	1		1	1		4																		4	0	0	0	cytosol membrane 	0	Swiss	
+ARA5/AtRABD2a	AT3G10380	SEC8	pp						1	1	1		1	1		5																		5	0	0	cell wall phragmoplast 	cytosol exocyst plasma membrane plasmodesma 	0	Swiss	
+ARA5/AtRABD2a	AT3G43300	MIN7/BIG5	pp					1			1		1	1		3																		4	0	0	early endosome membrane 	cytosol early endosome trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT5G16300	COG1/VPS51	pp								1		1			2																		2	0	0	0	cytosol 	0	trembl	
+ARA5/AtRABD2a	AT3G20050	"ATTCP-1, TCP-1 T-complex protein 1 alpha subunit "	pp						1		1		1	1		4			1															5	0	0	0	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT5G58410	HEAT/U-box domain-containing protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT3G50590	TWD40-1	pp								1		1			2																		2	2	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT3G60860	BIG2 	pp								1		1			2																		2	0	0	membrane 	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT5G21326	Ca2+regulated serine-threonine protein kinase family protein 	pp								1		1			2																		2	0	0	plasma membrane 	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT1G71220	"EBS1, UGGT, PSL2 UDP-glucose:glycoprotein glucosyltransferases;transferases, transferring hexosyl groups;transferases, transferring glycosyl groups "	pp								1		1			2			1								1							4	1	0	endoplasmic reticulum lumen 	0	1	Swiss	
+ARA5/AtRABD2a	AT5G42220	Ubiquitin-like superfamily protein 	pp								1		1			2																		2	0	0	0	cytosol 	0	trembl	
+ARA5/AtRABD2a	AT5G51430	COG7	pp								1		1			2																		2	0	0	0	cytosol 	0	trembl	
+ARA5/AtRABD2a	AT1G06410	"ATTPS7, TPS7, ATTPSA trehalose-phosphatase/synthase 7 "	pp										1			1																		1	0	0	0	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT1G20950	Phosphofructokinase family protein 	pp										1			1																		1	0	0	0	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT2G22475	GEM GRAM domain family protein 	pp										1			1																		1	0	0	0	cytosol 	0	Swiss	
+ARA5/AtRABD2a	AT1G50030	TOR target of rapamycin 	pp								1		1			2																		2	0	0	0	cytoplasm nucleus 	0	Swiss	
+ARA5/AtRABD2a	AT3G63520	"CCD1, ATCCD1, ATNCED1, NCED1 carotenoid cleavage dioxygenase 1 "	pp										1			1										1								2	0	0	0	cytoplasm Golgi apparatus plasma membrane plasmodesma vacuolar membrane vacuole 	0	Swiss	
+ARA5/AtRABD2a	AT5G13110	G6PD2 glucose-6-phosphate dehydrogenase 2 	pp								1		1			2																		2	0	0	0	chloroplast stroma 	0	Swiss	
+ARA5/AtRABD2a	AT5G57460	TML	pp										1			1																		1	0	0	0	chloroplast plasma membrane 	0	trembl	
+ARA5/AtRABD2a	AT5G13630	"GUN5, CCH, CHLH, CCH1, ABAR magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH) "	pp							1			1	1		3																		3	0	0	chloroplast stroma 	chloroplast mitochondrion 	0	Swiss	
+ARA5/AtRABD2a	AT1G23190	PGM3 Phosphoglucomutase/phosphomannomutase family protein 	pp								1		1	1		3																		3	0	0	0	chloroplast cytoplasm cytosol nucleus plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT4G10340	LHCB5 light harvesting complex of photosystem II 5 	pp										1		1	2																		2	0	0	0	chloroplast chloroplast thylakoid chloroplast thylakoid membrane membrane plastoglobule PSII associated light-harvesting complex II thylakoid 	0	Swiss	
+ARA5/AtRABD2a	AT5G53460	GLT1 NADH-dependent glutamate synthase 1 	pp								1		1			2																		2	0	0	0	chloroplast chloroplast stroma 	0	Swiss	
+ARA5/AtRABD2a	AT1G59820	ALA3 aminophospholipid ATPase 3 	pp		1			1					1			1				1									1					5	8	0	endoplasmic reticulum membrane Golgi membrane 	endosome Golgi apparatus plasma membrane trans-Golgi network 	0	Swiss	
+ARA5/AtRABD2a	AT1G32050	SCAMP family protein 	pp		1			1					1			1							1			1								5	4	0	transport vesicle membrane 	Golgi apparatus mitochondrion plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT5G03700	D-mannose binding lectin protein with Apple-like carbohydrate-binding domain 	pp					1					1			1				1														3	1	0	0	endosome Golgi apparatus plasma membrane trans-Golgi network 	1	Swiss	
+ARA5/AtRABD2a	AT5G64740	"CESA6, IXR2, E112, PRC1 cellulose synthase 6 "	pp		1								1			1																		2	8	0	0	Golgi apparatus membrane plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT2G26910	"PDR4, ATPDR4 pleiotropic drug resistance 4 "	pp										1			1																		1	13	0	0	plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT1G51500	"CER5, D3, ABCG12, WBC12, ATWBC12 ABC-2 type transporter family protein "	pp										1			1																1		2	7	0	plasma membrane 	0	0	Swiss	
+ARA5/AtRABD2a	AT5G46580	pentatricopeptide (PPR) repeat-containing protein 	pp										1	1		2																		2	0	0	0	chloroplast 	0	Swiss	
+ARA5/AtRABD2a	AT1G25490	"RCN1, REGA, ATB BETA BETA, EER1 ARM repeat superfamily protein "	pp								1		1	1		3																		3	0	0	0	cell wall nucleus plasma membrane 	0	Swiss	1
+ARA5/AtRABD2a	AT1G12000	Phosphofructokinase family protein 	pp								1		1	1		3																		3	0	0	0	cell wall cytosol membrane 	0	Swiss	1
+ARA5/AtRABD2a	AT5G19820	emb2734 ARM repeat superfamily protein 	pp						1	1	1	1	1	1		6																		6	0	0	0	cell wall cytosol 	0	trembl	1
+ARA5/AtRABD2a	AT3G45780	"PHOT1, NPH1, JK224, RPT1 phototropin 1 "	pp										1	1		2																		2	0	0	0	cell surface cytoplasm cytoplasmic side of plasma membrane vacuole 	0	Swiss	
+ARA5/AtRABD2a	AT5G10470	"KCA1, KAC1 kinesin like protein for actin based chloroplast movement 1 "	pp						1				1	1		3																		3	0	0	chromosome nucleus spindle 	cell plate chloroplast envelope cytosol membrane phragmoplast plasma membrane 	0	Swiss	
+ARA5/AtRABD2a	AT1G78900	VHA-A vacuolar ATP synthase subunit A 	pp		1								1		1	2								1		1		1						6	0	0	0	apoplast cell wall chloroplast chloroplast envelope Golgi apparatus membrane plant-type vacuole plasma membrane plasmodesma vacuolar membrane vacuole 	0	Swiss	1
+ARA5/AtRABD2a	AT2G16950	"TRN1, ATTRN1 transportin 1 "	pp						1	1	1		1	1		5																		5	0	0	cytoplasm nucleoplasm 	0	0	Swiss	
+ARA5/AtRABD2a	AT5G65010	ASN2 asparagine synthetase 2 	pp						1	1	1		1	1		5																		5	0	0	0	0	0	Swiss	
+ARA5/AtRABD2a	AT1G52360	Coatomer ß ' (SEC27p)	pp							1	1		1	1		4																		4	0	0	COPI-coated vesicle membrane 	0	0	Swiss	
+ARA5/AtRABD2a	AT1G18270	ketose-bisphosphate aldolase class-II family protein 	pp								1		1	1		3																		3	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT1G64790	ILA ILITYHIA 	pp								1		1	1		3																		3	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT1G02080	transcription regulators 	pp						1		1		1			3																		3	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT2G07360	TASH3	pp						1		1		1			3																		3	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT3G06530	ARM repeat superfamily protein 	pp						1		1		1			3																		3	0	0	nucleolus 	0	0	Swiss	
+ARA5/AtRABD2a	AT5G65950	unknown protein	pp		1			1		1	1		1			3																		5	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT5G16280	TRS85	pp		1			1					1	1		2																		4	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT1G67140	SWEETIE HEAT repeat-containing protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT2G26780	ARM repeat superfamily protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT2G45540	WD-40 repeat family protein / beige-related 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT4G01800	"AGY1, AtcpSecA, SECA1 Albino or Glassy Yellow 1 "	pp								1		1			2																		2	0	0	chloroplast stroma chloroplast thylakoid membrane 	0	0	Swiss	
+ARA5/AtRABD2a	AT4G27640	ARM repeat superfamily protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT3G03220	"ATEXPA13, EXP13, ATEXP13, ATHEXP ALPHA 1.22, EXPA13 expansin A13 "	pp										1			1																		1	0	0	cell wall membrane 	0	1	Swiss	
+ARA5/AtRABD2a	AT5G27970	ARM repeat superfamily protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT5G39590	TLD-domain containing nucleolar protein 	pp								1		1			2																		2	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT2G47960	unknown protein	pp		1			1					1			1																		3	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT3G01310	Phosphoglycerate mutase-like family protein 	pp										1			1																		1	0	0	0	0	0	trembl	
+ARA5/AtRABD2a	AT4G28710	"XIH, ATXIH Myosin family protein with Dil domain "	pp										1			1																		1	0	0	0	0	0	Swiss	
+ARA5/AtRABD2a	AT5G46070	Guanylate-binding family protein 	pp										1			1																		1	0	0	0	0	0	trembl	
+YFP-RABG3f	AT1G59870	"PEN3, PDR8, ATPDR8, ABCG36, ATABCG36 ABC-2 and Plant PDR ABC-type transporter family protein "	pp		1			1	1	1	1	1	1	1	1	7		1					1									1		12	13	0	0	chloroplast chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane 	0	Swiss	
+YFP-RABG3f	AT3G11730	AtRABD1	pp		1			1						1		1		1	1												1			6	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	Golgi membrane plasma membrane trans-Golgi network membrane 	0	Swiss	
+YFP-RABG3f	AT5G53480	ARM repeat superfamily protein 	pp						1	1	1	1	1	1	1	7		1																8	0	0	0	chloroplast cytoplasm nucleus 	0	Swiss	
+YFP-RABG3f	AT2G46520	"cellular apoptosis susceptibility protein, putative / importin-alpha re-exporter, putative "	pp							1	1	1	1	1	1	6		1																7	0	0	nucleus 	cytosol membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT5G26360	TCP-1/cpn60 chaperonin family protein 	pp								1		1	1		3		1				1												5	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT2G33120	VAMP722/SAR1	pp							1	1	1	1	1		5																		5	1	0	0	0	0	Swiss	
+YFP-RABG3f	AT2G02560	"CAND1, ATCAND1, ETA2, TIP120, HVE cullin-associated and neddylation dissociated "	pp							1	1			1		3		1																4	0	0	0	cell wall cytosol plasma membrane 	0	Swiss	
+YFP-RABG3f	AT2G36530	"LOS2, ENO2 Enolase "	pp							1	1			1		3		1				1												5	0	0	0	apoplast chloroplast cytoplasm cytosol membrane mitochondrial envelope mitochondrion nucleus plasma membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT1G09640	"Translation elongation factor EF1B, gamma chain "	pp								1			1		2		1						1										4	0	0	0	cytosol plasma membrane plasmodesma vacuole 	0	Swiss	
+YFP-RABG3f	AT1G62380	"ACO2, ATACO2 ACC oxidase 2 "	pp								1			1		2		1								1								4	0	0	0	cell wall cytosol endoplasmic reticulum Golgi apparatus plasma membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT1G29470	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp								1	1	1	1		4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+YFP-RABG3f	AT2G26250	"FDH, KCS10 3-ketoacyl-CoA synthase 10 "	pp								1	1		1	1	4			1								1							6	3	0	0	endoplasmic reticulum membrane 	0	Swiss	
+YFP-RABG3f	AT1G64330	myosin heavy chain-related 	pp											1		1		1						1										3	0	0	0	vacuolar membrane vacuole 	0	trembl	
+YFP-RABG3f	AT4G19640	ARA7/AtRABF2b	pp							1	1		1	1		4			1												1			6	0	S-geranylgeranyl cysteine. {ECO:0000250}.	early endosome membrane vacuolar membrane 	early endosome endoplasmic reticulum endosome plasma membrane 	0	Swiss	
+YFP-RABG3f	AT5G47200	AtRABD2b	pp		1						1			1	1	3						1												5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	Golgi membrane 	Golgi apparatus plasma membrane 	0	Swiss	
+YFP-RABG3f	AT3G46830	AtRABA2c	pp		1								1	1		2						1										1		5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	endosome membrane Golgi apparatus 	cell plate cytosol endosome plasma membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT3G18820	AtRABG3f	pp		1									1	1	2						1						1						5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	Golgi apparatus nucleus plasma membrane 	0	Swiss	
+YFP-RABG3f	AT4G17170	AtRABB1c	pp											1	1	2						1									1			4	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	membrane plasma membrane vacuole 	0	Swiss	
+YFP-RABG3f	AT1G43890	AtRABC1	pp							1				1		2						1									1			4	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	plasma membrane 	0	Swiss	
+YFP-RABG3f	AT2G44610	AtRABH1b	pp		1									1		1				1												1		4	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	cytosol endosome Golgi apparatus Golgi membrane membrane plasma membrane plasmodesma trans-Golgi network vacuolar membrane 	0	Swiss	
+YFP-RABG3f	AT4G34830	MRL1 Pentatricopeptide repeat (PPR) superfamily protein 	pp								1		1	1		3																		3	1	0	0	chloroplast 	0	Swiss	
+YFP-RABG3f	AT1G20330	"SMT2, CVP1, FRL1 sterol methyltransferase 2 "	pp								1			1	1	3		1	1							1		1						7	1	0	0	endoplasmic reticulum Golgi apparatus 	0	Swiss	
+YFP-RABG3f	AT1G36160	"ACC1, AT-ACC1, EMB22, GK, PAS3 acetyl-CoA carboxylase 1 "	pp								1		1	1		3																		3	0	0	cytosol 	plasma membrane 	0	Swiss	
+YFP-RABG3f	AT2G25430	ATECA4	pp	1					1					1		2																		3	0	0	clathrin-coated vesicle coated pit Golgi apparatus 	nucleus plasma membrane 	0	Swiss	
+YFP-RABG3f	AT5G04130	GYRB2 DNA GYRASE B2 	pp								1		1	1		3																		3	0	0	0	mitochondrion 	0	Swiss	
+YFP-RABG3f	AT1G71410	ARM repeat superfamily protein 	pp								1			1		2																		2	0	0	0	membrane 	0	trembl	
+YFP-RABG3f	AT3G19820	"DWF1, DIM, EVE1, DIM1, CBB1 cell elongation protein / DWARF1 / DIMINUTO (DIM) "	pp		1									1	1	2		1						1				1						6	1	0	0	integral component of membrane membrane plasma membrane vacuolar membrane vacuole 	0	Swiss	
+YFP-RABG3f	AT5G23860	TUB8 tubulin beta 8 	pp											1		1																		1	0	0	0	Golgi apparatus membrane 	0	Swiss	
+YFP-RABG3f	AT1G50500	VPS53	pp								1		1	1		3																		3	0	0	endosome membrane 	GARP complex Golgi membrane 	0	Swiss	
+YFP-RABG3f	AT3G53420	"PIP2A, PIP2, PIP2;1 plasma membrane intrinsic protein 2A "	pp							1				1		2							1					1						4	6	0	0	chloroplast membrane plasma membrane plasmodesma vacuole 	0	Swiss	
+YFP-RABG3f	AT5G46110	"APE2, TPT Glucose-6-phosphate/phosphate translocator-related "	pp								1			1		2																		2	9	0	chloroplast membrane 	0	0	Swiss	
+YFP-RABG3f	AT1G71270	VPS52	pp						1	1	1		1	1		5																		5	0	0	endosome membrane 	endomembrane system GARP complex Golgi apparatus Golgi membrane 	0	Swiss	
+YFP-RABG3f	AT1G23410	Ribosomal protein S27a / Ubiquitin family protein	pp											1		1																		1	0	0	nucleus 	cytosolic small ribosomal subunit Golgi apparatus plasma membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT1G30580	GTP binding 	pp											1	1	2																		2	0	0	0	cytosol plasmodesma 	0	trembl	
+YFP-RABG3f	AT5G19990	"RPT6A, ATSUG1 regulatory particle triple-A ATPase 6A "	pp											1		1																		1	0	0	0	cytosol plasma membrane proteasome complex 	0	Swiss	
+YFP-RABG3f	AT3G28290	AT14A Protein of unknown function (DUF677) 	pp								1			1		2																		2	2	0	0	0	0	Swiss	
+YFP-RABG3f	AT2G32730	"26S proteasome regulatory complex, non-ATPase subcomplex, Rpn2/Psmd1 subunit "	pp								1			1		2																		2	1	0	0	cytosol proteasome complex 	0	Swiss	
+YFP-RABG3f	AT1G01960	BIG3/EDA10	pp						1		1		1	1		4																		4	0	0	membrane 	cytosol nucleus 	0	Swiss	
+YFP-RABG3f	AT1G70320	UPL2 ubiquitin-protein ligase 2 	pp								1			1		2																		2	0	0	0	cytosol mitochondrion nucleus 	0	Swiss	
+YFP-RABG3f	AT4G38630	"RPN10, MCB1, ATMCB1, MBP1 regulatory particle non-ATPase 10 "	pp								1			1		2																		2	0	0	0	cytosol membrane proteasome complex 	0	Swiss	
+YFP-RABG3f	AT3G02260	"BIG, DOC1, TIR3, UMB1, ASA1, LPR1, CRM1 auxin transport protein (BIG) "	pp						1	1	1		1	1		5						1												6	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT3G03960	TCP-1/cpn60 chaperonin family protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT1G62020	Coatomer ? (RET1p)	pp							1	1		1	1	1	5						1												6	0	0	0	cytosol membrane plasma membrane 	0	Swiss	
+YFP-RABG3f	AT2G21390	Coatomer ? (RET1p)	pp							1	1		1	1		4																		4	0	0	0	cytosol membrane 	0	Swiss	
+YFP-RABG3f	AT3G10380	SEC8	pp						1	1	1		1	1		5																		5	0	0	cell wall phragmoplast 	cytosol exocyst plasma membrane plasmodesma 	0	Swiss	
+YFP-RABG3f	AT3G43300	MIN7/BIG5	pp					1			1		1	1		3																		4	0	0	early endosome membrane 	cytosol early endosome trans-Golgi network 	0	Swiss	
+YFP-RABG3f	AT3G20050	"ATTCP-1, TCP-1 T-complex protein 1 alpha subunit "	pp						1		1		1	1		4			1															5	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT5G58410	HEAT/U-box domain-containing protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT4G24550	Clathrin adaptor complexes medium subunit family protein 	pp							1	1			1		3																		3	0	0	coated pit Golgi apparatus 	cytosol 	0	Swiss	
+YFP-RABG3f	AT4G39520	GTP-binding protein-related 	pp								1			1	1	3																		3	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT1G48900	"Signal recognition particle, SRP54 subunit protein "	pp								1			1		2																		2	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT2G44100	GDI1	pp								1			1		2						1												3	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT3G18190	TCP-1/cpn60 chaperonin family protein 	pp								1			1		2						1												3	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT5G16070	TCP-1/cpn60 chaperonin family protein 	pp											1		1																		1	0	0	0	cytosol 	0	Swiss	
+YFP-RABG3f	AT5G41950	Tetratricopeptide repeat (TPR)-like superfamily protein 	pp											1		1																		1	0	0	0	cytosol 	0	trembl	
+YFP-RABG3f	AT5G11560	catalytics 	pp											1		1		1	1							1		1						5	1	0	0	endoplasmic reticulum Golgi apparatus plasma membrane vacuolar membrane vacuole 	0	trembl	
+YFP-RABG3f	AT2G27600	VPS4/SKD1	pp								1			1		2																		2	0	0	0	cytoplasm multivesicular body nucleus plasmodesma 	0	Swiss	
+YFP-RABG3f	AT3G13870	RHD3 Root hair defective 3 GTP-binding protein (RHD3) 	pp									1		1		2			1									1						4	0	0	endoplasmic reticulum membrane Golgi membrane 	cytoplasm endoplasmic reticulum plasma membrane vacuolar membrane 	0	Swiss	
+YFP-RABG3f	AT3G05530	"RPT5A, ATS6A.2 regulatory particle triple-A ATPase 5A "	pp							1	1			1	1	4																		4	0	0	0	cytoplasm cytosol nucleus proteasome complex 	0	Swiss	
+YFP-RABG3f	AT1G04430	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp											1		1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network vacuolar membrane 	0	Swiss	
+YFP-RABG3f	AT2G45140	PVA12 plant VAP homolog 12 	pp											1		1						1						1						3	1	0	endoplasmic reticulum membrane 	cytosol endoplasmic reticulum nucleus plasma membrane 	0	Swiss	
+YFP-RABG3f	AT2G31660	"SAD2, URM9 ARM repeat superfamily protein "	pp							1	1			1		3																		3	0	0	0	cytoplasm cytosol nucleus 	0	Swiss	
+YFP-RABG3f	AT2G35630	"MOR1, GEM1 ARM repeat superfamily protein "	pp											1		1																		1	0	0	0	cortical microtubule cytoskeleton microtubule phragmoplast plasmodesma preprophase band spindle 	0	Swiss	
+YFP-RABG3f	AT5G14780	FDH formate dehydrogenase 	pp											1		1																		1	0	0	0	chloroplast mitochondrion thylakoid 	0	Swiss	
+YFP-RABG3f	AT5G13630	"GUN5, CCH, CHLH, CCH1, ABAR magnesium-chelatase subunit chlH, chloroplast, putative / Mg-protoporphyrin IX chelatase, putative (CHLH) "	pp							1			1	1		3																		3	0	0	chloroplast stroma 	chloroplast mitochondrion 	0	Swiss	
+YFP-RABG3f	AT1G20260	"ATPase, V1 complex, subunit B protein"	pp							1	1			1	1	4										1								5	0	0	0	chloroplast Golgi apparatus vacuolar membrane vacuole 	0	Swiss	
+YFP-RABG3f	AT5G08690	ATP synthase alpha/beta family protein 	pp							1	1	1		1	1	5																		5	0	0	0	"chloroplast envelope mitochondrial proton-transporting ATP synthase complex mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) mitochondrial respiratory chain complex I mitochondrion nucleolus "	0	Swiss	
+YFP-RABG3f	AT1G05240	Peroxidase superfamily protein 	pp											1		1																		1	1	0	extracellular region 	plant-type cell wall plasmodesma 	1	Swiss	
+YFP-RABG3f	AT5G41790	CIP1 COP1-interactive protein 1 	pp											1		1																		1	0	0	0	chloroplast cytoskeleton vacuolar membrane vacuole 	0	trembl	
+YFP-RABG3f	AT1G23190	PGM3 Phosphoglucomutase/phosphomannomutase family protein 	pp								1		1	1		3																		3	0	0	0	chloroplast cytoplasm cytosol nucleus plasma membrane 	0	Swiss	
+YFP-RABG3f	AT1G29930	"CAB1, AB140, CAB140, LHCB1.3 chlorophyll A/B binding protein 1 "	pp											1		1																		1	0	0	0	chloroplast chloroplast thylakoid chloroplast thylakoid membrane thylakoid 	0	Swiss	
+YFP-RABG3f	AT4G33510	DHS2 3-deoxy-d-arabino-heptulosonate 7-phosphate synthase 	pp								1			1		2																		2	0	0	0	chloroplast chloroplast thylakoid 	0	Swiss	
+YFP-RABG3f	AT4G35250	NAD(P)-binding Rossmann-fold superfamily protein 	pp											1		1																		1	0	0	0	chloroplast chloroplast thylakoid 	0	trembl	
+YFP-RABG3f	AT1G74960	"FAB1, KAS2, ATKAS2 fatty acid biosynthesis 1 "	pp							1	1			1		3																		3	0	0	0	chloroplast chloroplast stroma 	0	Swiss	
+YFP-RABG3f	AT4G16390	SVR7 pentatricopeptide (PPR) repeat-containing protein 	pp											1		1																		1	0	0	0	chloroplast chloroplast stroma 	0	Swiss	
+YFP-RABG3f	AT2G34460	NAD(P)-binding Rossmann-fold superfamily protein 	pp								1			1		2																		2	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane plastoglobule 	0	Swiss	
+YFP-RABG3f	AT4G04640	"ATPC1 ATPase, F1 complex, gamma subunit protein "	pp								1	1		1		3																		3	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane thylakoid 	0	Swiss	
+YFP-RABG3f	AT5G42650	"AOS, CYP74A, DDE2 allene oxide synthase "	pp								1			1		2																		2	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane mitochondrion plastoglobule thylakoid 	0	Swiss	
+YFP-RABG3f	AT3G18890	NAD(P)-binding Rossmann-fold superfamily protein 	pp											1		1																		1	0	0	chloroplast inner membrane chloroplast stroma 	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane 	0	Swiss	
+YFP-RABG3f	AT4G01690	"PPOX, HEMG1, PPO1 Flavin containing amine oxidoreductase family "	pp											1		1																		1	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid 	0	Swiss	
+YFP-RABG3f	AT1G49240	ACT8 actin 8 	pp											1		1																		1	0	0	cytoskeleton 	chloroplast chloroplast envelope chloroplast stroma cytosol plasma membrane plasmodesma vacuole 	0	Swiss	
+YFP-RABG3f	AT3G48730	"GSA2 glutamate-1-semialdehyde 2,1-aminomutase 2 "	pp											1		1																		1	0	0	0	chloroplast chloroplast envelope chloroplast stroma 	0	Swiss	
+YFP-RABG3f	AT4G16155	dihydrolipoyl dehydrogenases 	pp											1		1																		1	0	0	0	chloroplast chloroplast envelope chloroplast stroma 	0	Swiss	
+YFP-RABG3f	AT5G46580	pentatricopeptide (PPR) repeat-containing protein 	pp										1	1		2																		2	0	0	0	chloroplast 	0	Swiss	
+YFP-RABG3f	AT2G31810	ACT domain-containing small subunit of acetolactate synthase protein 	pp											1		1																		1	0	0	0	chloroplast 	0	Swiss	
+YFP-RABG3f	AT1G25490	"RCN1, REGA, ATB BETA BETA, EER1 ARM repeat superfamily protein "	pp								1		1	1		3																		3	0	0	0	cell wall nucleus plasma membrane 	0	Swiss	1
+YFP-RABG3f	AT5G52650	RNA binding Plectin/S10 domain-containing protein 	pp											1		1						1												2	0	0	0	cell wall cytosolic ribosome cytosolic small ribosomal subunit membrane 	0	Swiss	1
+YFP-RABG3f	AT5G43010	RPT4A regulatory particle triple-A ATPase 4A 	pp								1			1		2																		2	0	0	0	cell wall cytosol proteasome complex 	0	Swiss	1
+YFP-RABG3f	AT1G79920	Heat shock protein 70 (Hsp 70) family protein 	pp											1	1	2																		2	0	0	0	cell wall cytosol nucleus plasma membrane plasmodesma 	0	Swiss	1
+YFP-RABG3f	AT1G12000	Phosphofructokinase family protein 	pp								1		1	1		3																		3	0	0	0	cell wall cytosol membrane 	0	Swiss	1
+YFP-RABG3f	AT5G19820	emb2734 ARM repeat superfamily protein 	pp						1	1	1	1	1	1		6																		6	0	0	0	cell wall cytosol 	0	trembl	1
+YFP-RABG3f	AT4G29010	AIM1 Enoyl-CoA hydratase/isomerase family 	pp			1								1		1																		2	0	0	0	cell wall chloroplast peroxisome plasmodesma 	0	Swiss	1
+YFP-RABG3f	AT4G26010	Peroxidase superfamily protein 	pp						1					1		2																		2	0	0	extracellular region 	0	1	Swiss	
+YFP-RABG3f	AT3G45780	"PHOT1, NPH1, JK224, RPT1 phototropin 1 "	pp										1	1		2																		2	0	0	0	cell surface cytoplasm cytoplasmic side of plasma membrane vacuole 	0	Swiss	
+YFP-RABG3f	AT5G10470	"KCA1, KAC1 kinesin like protein for actin based chloroplast movement 1 "	pp						1				1	1		3																		3	0	0	chromosome nucleus spindle 	cell plate chloroplast envelope cytosol membrane phragmoplast plasma membrane 	0	Swiss	
+YFP-RABG3f	AT2G20190	"ATCLASP, CLASP CLIP-associated protein "	pp								1			1		2																		2	0	0	0	cell cortex phragmoplast plasma membrane plasmodesma spindle microtubule 	0	Swiss	
+YFP-RABG3f	AT3G59920	GDI2	pp											1		1						1												2	0	0	0	apoplast cytosol plasmodesma 	0	Swiss	1
+YFP-RABG3f	AT1G72150	PATL1 PATELLIN 1 	pp											1		1							1			1					1			4	0	0	0	apoplast chloroplast Golgi apparatus membrane plasma membrane plasmodesma vacuole 	0	Swiss	1
+YFP-RABG3f	AT1G20020	"ATLFNR2, FNR2 ferredoxin-NADP(+)-oxidoreductase 2 "	pp											1		1																		1	0	0	0	apoplast chloroplast chloroplast stroma chloroplast thylakoid chloroplast thylakoid membrane thylakoid 	0	Swiss	1
+YFP-RABG3f	AT4G38970	FBA2 fructose-bisphosphate aldolase 2 	pp											1		1																		1	0	0	0	apoplast chloroplast chloroplast envelope chloroplast stroma membrane plastoglobule thylakoid 	0	Swiss	1
+YFP-RABG3f	AT3G26650	"GAPA, GAPA-1 glyceraldehyde 3-phosphate dehydrogenase A subunit "	pp											1		1																		1	0	0	chloroplast membrane 	apoplast chloroplast chloroplast envelope chloroplast stroma chloroplast thylakoid membrane membrane stromule 	0	Swiss	1
+YFP-RABG3f	AT5G08280	HEMC hydroxymethylbilane synthase 	pp								1			1	1	3																		3	0	0	0	apoplast chloroplast chloroplast envelope chloroplast stroma 	0	Swiss	1
+YFP-RABG3f	AT3G12780	PGK1 phosphoglycerate kinase 1 	pp								1			1	1	3																		3	0	0	0	apoplast cell wall chloroplast chloroplast envelope chloroplast stroma cytoplasm cytosol membrane mitochondrion nucleus stromule thylakoid 	0	Swiss	1
+YFP-RABG3f	AT3G57410	"VLN3, ATVLN3 villin 3 "	pp											1		1																		1	0	0	0	actin filament cytoplasm 	0	Swiss	
+YFP-RABG3f	AT2G16950	"TRN1, ATTRN1 transportin 1 "	pp						1	1	1		1	1		5																		5	0	0	cytoplasm nucleoplasm 	0	0	Swiss	
+YFP-RABG3f	AT5G65010	ASN2 asparagine synthetase 2 	pp						1	1	1		1	1		5																		5	0	0	0	0	0	Swiss	
+YFP-RABG3f	AT1G52360	Coatomer ß ' (SEC27p)	pp							1	1		1	1		4																		4	0	0	COPI-coated vesicle membrane 	0	0	Swiss	
+YFP-RABG3f	AT1G18270	ketose-bisphosphate aldolase class-II family protein 	pp								1		1	1		3																		3	0	0	0	0	0	trembl	
+YFP-RABG3f	AT5G49830	EXO84B/VPS51	pp								1			1		2																		2	0	0	cell wall cytosol phragmoplast 	0	0	Swiss	
+YFP-RABG3f	AT1G64790	ILA ILITYHIA 	pp								1		1	1		3																		3	0	0	0	0	0	trembl	
+YFP-RABG3f	AT5G09900	"EMB2107, RPN5A, MSA 26S proteasome regulatory subunit, putative (RPN5) "	pp							1	1			1		3																		3	0	0	cytoplasm nucleus 	0	0	Swiss	
+YFP-RABG3f	AT5G16280	TRS85	pp		1			1					1	1		2																		4	0	0	0	0	0	trembl	
+YFP-RABG3f	AT2G17790	VPS35A	pp		1			1						1		1																		3	0	0	Golgi apparatus late endosome membrane 	0	0	Swiss	
+YFP-RABG3f	AT1G75850	VPS35B	pp											1		1																		1	0	0	Golgi apparatus late endosome membrane 	0	0	Swiss	
+YFP-RABG3f	AT1G47550	SEC3A	pp											1		1																		1	0	0	cytosol phragmoplast plasma membrane 	0	0	Swiss	
+YFP-RABG3f	AT4G22690	"CYP706A1 cytochrome P450, family 706, subfamily A, polypeptide 1 "	pp											1		1										1								2	0	0	0	0	0	trembl	
+YFP-RABG3f	AT4G31480	Coatomer ß (SEC26p)	pp											1		1																		1	0	0	0	0	0	Swiss	
+VAMP711	AT1G77140	"VPS45, ATVPS45 vacuolar protein sorting 45 "	pp		1		1	1					1		1	2																		5	0	0	0	plant-type vacuole membrane trans-Golgi network 	0	Swiss	
+VAMP711	AT2G14740	VSR3	pp		1		1	1							1	1				1											1			6	1	0	clathrin-coated vesicle membrane Golgi membrane late endosome membrane 	endosome Golgi apparatus membrane trans-Golgi network 	1	Swiss	
+VAMP711	AT1G59870	"PEN3, PDR8, ATPDR8, ABCG36, ATABCG36 ABC-2 and Plant PDR ABC-type transporter family protein "	pp		1			1	1	1	1	1	1	1	1	7		1					1									1		12	13	0	0	chloroplast chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane 	0	Swiss	
+VAMP711	AT5G53480	ARM repeat superfamily protein 	pp						1	1	1	1	1	1	1	7		1																8	0	0	0	chloroplast cytoplasm nucleus 	0	Swiss	
+VAMP711	AT2G46520	"cellular apoptosis susceptibility protein, putative / importin-alpha re-exporter, putative "	pp							1	1	1	1	1	1	6		1																7	0	0	nucleus 	cytosol membrane plasmodesma 	0	Swiss	
+VAMP711	AT2G26250	"FDH, KCS10 3-ketoacyl-CoA synthase 10 "	pp								1	1		1	1	4			1								1							6	3	0	0	endoplasmic reticulum membrane 	0	Swiss	
+VAMP711	AT5G56030	"HSP81-2, ERD8, HSP90.2, AtHsp90.2 heat shock protein 81-2 "	pp										1		1	2		1				1												4	0	0	cytoplasm 	0	0	Swiss	
+VAMP711	AT3G23300	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1		1	1		1	4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus nucleus trans-Golgi network vacuolar membrane 	0	Swiss	
+VAMP711	AT5G47200	AtRABD2b	pp		1						1			1	1	3						1												5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	Golgi membrane 	Golgi apparatus plasma membrane 	0	Swiss	
+VAMP711	AT3G18820	AtRABG3f	pp		1									1	1	2						1						1						5	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	Golgi apparatus nucleus plasma membrane 	0	Swiss	
+VAMP711	AT4G17170	AtRABB1c	pp											1	1	2						1									1			4	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	membrane plasma membrane vacuole 	0	Swiss	
+VAMP711	AT4G18800	AtRABA1d	pp								1				1	2						1												3	0	S-geranylgeranyl cysteine. {ECO:0000250}.	0	early endosome membrane plasma membrane plasmodesma trans-Golgi network membrane 	0	Swiss	
+VAMP711	AT4G28470	"RPN1B, ATRPN1B 26S proteasome regulatory subunit S2 1B "	pp												1	1																		1	0	0	0	proteasome complex 	0	Swiss	
+VAMP711	AT1G20330	"SMT2, CVP1, FRL1 sterol methyltransferase 2 "	pp								1			1	1	3		1	1							1		1						7	1	0	0	endoplasmic reticulum Golgi apparatus 	0	Swiss	
+VAMP711	AT3G09810	IDH-VI isocitrate dehydrogenase VI 	pp								1				1	2																		2	0	0	0	mitochondrion 	0	Swiss	
+VAMP711	AT4G04910	NSF type	pp		1						1	1	1		1	4						1				1					1			8	0	0	0	Golgi apparatus plasma membrane plasmodesma vacuole 	0	Swiss	
+VAMP711	AT1G10290	DRP2A	pp	1											1	1							1									1		4	0	0	cytosol Golgi membrane phragmoplast 	Golgi apparatus membrane plasma membrane plasmodesma vacuolar membrane 	0	Swiss	
+VAMP711	AT3G19820	"DWF1, DIM, EVE1, DIM1, CBB1 cell elongation protein / DWARF1 / DIMINUTO (DIM) "	pp		1									1	1	2		1						1				1						6	1	0	0	integral component of membrane membrane plasma membrane vacuolar membrane vacuole 	0	Swiss	
+VAMP711	AT1G30580	GTP binding 	pp											1	1	2																		2	0	0	0	cytosol plasmodesma 	0	trembl	
+VAMP711	AT3G05280	YIP5b	pp		1			1					1		1	2										1								5	5	0	0	cytosol Golgi apparatus 	0	trembl	
+VAMP711	AT1G62020	Coatomer ? (RET1p)	pp							1	1		1	1	1	5						1												6	0	0	0	cytosol membrane plasma membrane 	0	Swiss	
+VAMP711	AT4G39520	GTP-binding protein-related 	pp								1			1	1	3																		3	0	0	0	cytosol 	0	Swiss	
+VAMP711	AT4G39080	VHA-A3 vacuolar proton ATPase A3 	pp		1						1				1	2		1						1		1		1						7	6	0	0	chloroplast chloroplast envelope Golgi apparatus membrane plant-type vacuole plant-type vacuole membrane plasma membrane vacuolar membrane vacuole 	0	Swiss	
+VAMP711	AT4G36440	unknown protein	pp		1						1				1	2		1																4	2	0	0	0	0	trembl	
+VAMP711	AT3G05530	"RPT5A, ATS6A.2 regulatory particle triple-A ATPase 5A "	pp							1	1			1	1	4																		4	0	0	0	cytoplasm cytosol nucleus proteasome complex 	0	Swiss	
+VAMP711	AT3G02530	TCP-1/cpn60 chaperonin family protein 	pp							1	1				1	3																		3	0	0	0	cytoplasm cytosol membrane 	0	Swiss	
+VAMP711	AT5G59910	HTB4 Histone superfamily protein 	pp												1	1																		1	0	0	0	chloroplast stroma chloroplast thylakoid nucleolus 	0	Swiss	
+VAMP711	AT1G20260	"ATPase, V1 complex, subunit B protein"	pp							1	1			1	1	4										1								5	0	0	0	chloroplast Golgi apparatus vacuolar membrane vacuole 	0	Swiss	
+VAMP711	AT5G08690	ATP synthase alpha/beta family protein 	pp							1	1	1		1	1	5																		5	0	0	0	"chloroplast envelope mitochondrial proton-transporting ATP synthase complex mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) mitochondrial respiratory chain complex I mitochondrion nucleolus "	0	Swiss	
+VAMP711	AT4G10340	LHCB5 light harvesting complex of photosystem II 5 	pp										1		1	2																		2	0	0	0	chloroplast chloroplast thylakoid chloroplast thylakoid membrane membrane plastoglobule PSII associated light-harvesting complex II thylakoid 	0	Swiss	
+VAMP711	AT4G02770	PSAD-1 photosystem I subunit D-1 	pp												1	1																		1	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane plastoglobule thylakoid 	0	Swiss	
+VAMP711	AT1G16240	SYP51	pp												1	1		1						1										3	1	0	Golgi apparatus late endosome membrane 	vacuole 	0	Swiss	
+VAMP711	AT4G32150	"VAMP711, ATVAMP711 vesicle-associated membrane protein 711 "	pp												1	1		1																2	1	0	0	plasma membrane vacuolar membrane vacuole 	0	Swiss	
+VAMP711	AT1G04750	VAMP721	pp		1										1	1																		2	1	0	0	cell plate endosome plasma membrane plasmodesma 	0	Swiss	
+VAMP711	AT1G79920	Heat shock protein 70 (Hsp 70) family protein 	pp											1	1	2																		2	0	0	0	cell wall cytosol nucleus plasma membrane plasmodesma 	0	Swiss	1
+VAMP711	AT5G08280	HEMC hydroxymethylbilane synthase 	pp								1			1	1	3																		3	0	0	0	apoplast chloroplast chloroplast envelope chloroplast stroma 	0	Swiss	1
+VAMP711	AT1G78900	VHA-A vacuolar ATP synthase subunit A 	pp		1								1		1	2								1		1		1						6	0	0	0	apoplast cell wall chloroplast chloroplast envelope Golgi apparatus membrane plant-type vacuole plasma membrane plasmodesma vacuolar membrane vacuole 	0	Swiss	1
+VAMP711	AT2G01470	SEC12	pp												1	1			1									1						3	1	0	Golgi apparatus 	endoplasmic reticulum integral component of endoplasmic reticulum membrane membrane plasma membrane vacuolar membrane 	0	Swiss	
+VAMP711	AT3G12780	PGK1 phosphoglycerate kinase 1 	pp								1			1	1	3																		3	0	0	0	apoplast cell wall chloroplast chloroplast envelope chloroplast stroma cytoplasm cytosol membrane mitochondrion nucleus stromule thylakoid 	0	Swiss	1
+VAMP711	AT1G12230	Aldolase superfamily protein 	pp												1	1																		1	0	0	0	0	0	trembl	
+Got1	AT5G64030	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp		1		1				1	1				2		1		1						1					1			8	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT4G12650	Endomembrane protein 70 protein family 	pp		1		1				1	1				2				1						1					1			7	10	0	0	endosome Golgi apparatus plasmodesma trans-Golgi network vacuolar membrane vacuole 	1	Swiss	
+Got1	AT3G04080	"ATAPY1, APY1 apyrase 1 "	pp				1					1				1				1						1								4	1	0	Golgi membrane 	endosome Golgi apparatus integral component of membrane trans-Golgi network 	0	Swiss	
+Got1	AT5G61240	Leucine-rich repeat (LRR) family protein 	pp				1					1				1				1						1			1					5	0	0	0	0	0	trembl	
+Got1	AT1G59870	"PEN3, PDR8, ATPDR8, ABCG36, ATABCG36 ABC-2 and Plant PDR ABC-type transporter family protein "	pp		1			1	1	1	1	1	1	1	1	7		1					1									1		12	13	0	0	chloroplast chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane 	0	Swiss	
+Got1	AT5G53480	ARM repeat superfamily protein 	pp						1	1	1	1	1	1	1	7		1																8	0	0	0	chloroplast cytoplasm nucleus 	0	Swiss	
+Got1	AT2G46520	"cellular apoptosis susceptibility protein, putative / importin-alpha re-exporter, putative "	pp							1	1	1	1	1	1	6		1																7	0	0	nucleus 	cytosol membrane plasmodesma 	0	Swiss	
+Got1	AT2G33120	VAMP722/SAR1	pp							1	1	1	1	1		5																		5	1	0	0	0	0	Swiss	
+Got1	AT1G29470	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp								1	1	1	1		4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT2G26250	"FDH, KCS10 3-ketoacyl-CoA synthase 10 "	pp								1	1		1	1	4			1								1							6	3	0	0	endoplasmic reticulum membrane 	0	Swiss	
+Got1	AT1G26850	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1	1	1	1			4		1		1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus membrane trans-Golgi network 	0	Swiss	
+Got1	AT4G18030	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp					1		1	1	1	1			4				1						1			1					8	1	0	Golgi membrane 	endosome Golgi apparatus plant-type cell wall trans-Golgi network vacuolar membrane 	0	Swiss	
+Got1	AT3G23300	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp							1		1	1		1	4				1						1			1					7	1	0	Golgi membrane 	endosome Golgi apparatus nucleus trans-Golgi network vacuolar membrane 	0	Swiss	
+Got1	AT5G59840	Ras-related small GTP-binding family protein 	pp									1				1																		1	0	0	0	plasma membrane plasmodesma 	0	trembl	
+Got1	AT3G49720	unknown protein	pp						1		1	1				3		1		1						1			1					7	1	0	Golgi membrane 	chloroplast thylakoid membrane endosome Golgi apparatus membrane plasma membrane trans-Golgi network vacuolar membrane 	0	Swiss	
+Got1	AT1G14670	Endomembrane protein 70 protein family 	pp							1	1	1				3				1						1			1					6	10	0	0	endosome Golgi apparatus membrane trans-Golgi network 	1	Swiss	
+Got1	AT5G25100	Endomembrane protein 70 protein family 	pp								1	1				2		1		1						1			1					6	10	0	0	0	1	Swiss	
+Got1	AT4G04910	NSF type	pp		1						1	1	1		1	4						1				1					1			8	0	0	0	Golgi apparatus plasma membrane plasmodesma vacuole 	0	Swiss	
+Got1	AT5G13710	"SMT1, CPH sterol methyltransferase 1 "	pp								1	1				2			1															3	0	0	0	endoplasmic reticulum plasmodesma vacuole 	0	Swiss	
+Got1	AT3G62830	"UXS2, ATUXS2, AUD1 NAD(P)-binding Rossmann-fold superfamily protein "	pp					1			1	1				2		1		1						1								6	1	0	Golgi cisterna membrane 	endosome Golgi apparatus Golgi membrane plasma membrane trans-Golgi network 	0	Swiss	
+Got1	AT1G19360	Nucleotide-diphospho-sugar transferase family protein 	pp								1	1				2		1		1						1					1			6	1	0	0	endosome Golgi apparatus trans-Golgi network 	0	trembl	
+Got1	AT3G23820	GAE6 UDP-D-glucuronate 4-epimerase 6 	pp							1		1				2				1						1								4	1	0	Golgi cisterna membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT5G35160	Endomembrane protein 70 protein family 	pp		1						1	1				2				1						1			1					6	10	0	0	0	1	Swiss	
+Got1	AT1G10950	"TMN1, AtTMN1 transmembrane nine 1 "	pp								1	1				2				1						1			1					5	10	0	0	cis-Golgi network endosome Golgi apparatus Golgi medial cisterna membrane trans-Golgi network 	1	Swiss	
+Got1	AT3G56110	AtPRA1.B1	pp		1						1	1				2										1								4	4	0	endosome membrane 	endoplasmic reticulum Golgi apparatus 	0	Swiss	
+Got1	AT3G13870	RHD3 Root hair defective 3 GTP-binding protein (RHD3) 	pp									1		1		2			1									1						4	0	0	endoplasmic reticulum membrane Golgi membrane 	cytoplasm endoplasmic reticulum plasma membrane vacuolar membrane 	0	Swiss	
+Got1	AT5G08690	ATP synthase alpha/beta family protein 	pp							1	1	1		1	1	5																		5	0	0	0	"chloroplast envelope mitochondrial proton-transporting ATP synthase complex mitochondrial proton-transporting ATP synthase complex, catalytic core F(1) mitochondrial respiratory chain complex I mitochondrion nucleolus "	0	Swiss	
+Got1	AT3G53520	UXS1 UDP-glucuronic acid decarboxylase 1 	pp					1				1				1		1		1						1			1					6	1	0	Golgi cisterna membrane 	0	0	Swiss	
+Got1	AT3G66654	Cyclophilin-like peptidyl-prolyl cis-trans isomerase family protein 	pp									1				1		1		1						1			1					5	1	0	0	endosome Golgi apparatus plasma membrane trans-Golgi network 	0	Swiss	
+Got1	AT5G14950	"GMII, ATGMII golgi alpha-mannosidase II "	pp									1				1		1		1						1			1					5	1	0	0	endosome Golgi apparatus trans-Golgi network 	0	trembl	
+Got1	AT5G25265	unknown protein	pp									1				1		1		1						1			1					5	1	0	0	endosome Golgi apparatus membrane plasma membrane trans-Golgi network vacuolar membrane 	0	trembl	
+Got1	AT5G18480	PGSIP6 plant glycogenin-like starch initiation protein 6 	pp									1				1		1		1						1								4	5	0	Golgi membrane 	endosome Golgi apparatus membrane trans-Golgi network 	0	Swiss	
+Got1	AT1G64650	Major facilitator superfamily protein 	pp		1							1				1				1						1			1					5	9	0	0	endosome Golgi apparatus trans-Golgi network vacuolar membrane 	0	trembl	
+Got1	AT1G27930	Protein of unknown function (DUF579) 	pp									1				1				1						1			1					4	1	0	0	endosome Golgi apparatus trans-Golgi network 	0	trembl	
+Got1	AT1G29790	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp									1				1				1						1			1					4	1	0	0	endosome Golgi apparatus plasma membrane trans-Golgi network 	0	trembl	
+Got1	AT1G74380	XXT5 xyloglucan xylosyltransferase 5 	pp									1				1				1						1			1					4	1	0	0	endosome Golgi apparatus Golgi membrane trans-Golgi network 	0	Swiss	
+Got1	AT1G78240	"TSD2, QUA2, OSU1 S-adenosyl-L-methionine-dependent methyltransferases superfamily protein "	pp					1				1				1				1						1			1					5	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT2G38650	"GAUT7, LGT7 galacturonosyltransferase 7 "	pp									1				1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT2G47650	UXS4 UDP-xylose synthase 4 	pp									1				1				1						1			1					4	1	0	Golgi cisterna membrane 	0	0	Swiss	
+Got1	AT3G02350	GAUT9 galacturonosyltransferase 9 	pp									1				1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT3G25140	"GAUT8, QUA1 Nucleotide-diphospho-sugar transferases superfamily protein "	pp									1				1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus mitochondrion trans-Golgi network 	0	Swiss	
+Got1	AT3G61130	"GAUT1, LGT1 galacturonosyltransferase 1 "	pp									1				1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT4G00750	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp									1				1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT4G14360	S-adenosyl-L-methionine-dependent methyltransferases superfamily protein 	pp									1				1				1						1			1					4	1	0	Golgi membrane 	endosome Golgi apparatus plasmodesma trans-Golgi network 	0	Swiss	
+Got1	AT2G40380	AtPRA1.B2	pp									1				1				1						1								3	4	0	endosome membrane 	endoplasmic reticulum endosome Golgi apparatus trans-Golgi network 	0	Swiss	
+Got1	AT3G07950	rhomboid protein-related 	pp									1				1										1								2	6	0	0	Golgi apparatus 	0	trembl	
+Got1	AT2G45200	GOS12	pp									1				1				1														2	1	0	endoplasmic reticulum membrane Golgi membrane 	0	0	Swiss	
+Got1	AT5G65810	unknown protein	pp					1				1				1				1														3	1	0	0	endosome Golgi apparatus Golgi membrane trans-Golgi network 	0	trembl	
+Got1	AT1G08930	ERD6 Major facilitator superfamily protein 	pp									1				1			1															2	12	0	0	endoplasmic reticulum 	0	Swiss	
+Got1	AT2G14835	RING/U-box superfamily protein 	pp									1				1																		1	1	0	0	0	0	trembl	
+Got1	AT3G28480	Oxoglutarate/iron-dependent oxygenase 	pp									1				1				1						1					1			4	1	0	endoplasmic reticulum lumen 	0	1	Swiss	
+Got1	AT5G66060	2-oxoglutarate (2OG) and Fe(II)-dependent oxygenase superfamily protein 	pp									1				1																		1	1	0	endoplasmic reticulum lumen 	0	1	Swiss	
+Got1	AT4G04640	"ATPC1 ATPase, F1 complex, gamma subunit protein "	pp								1	1		1		3																		3	0	0	0	chloroplast chloroplast envelope chloroplast thylakoid chloroplast thylakoid membrane membrane thylakoid 	0	Swiss	
+Got1	AT5G19820	emb2734 ARM repeat superfamily protein 	pp						1	1	1	1	1	1		6																		6	0	0	0	cell wall cytosol 	0	trembl	1
+Got1	AT1G20620	"CAT3, SEN2, ATCAT3 catalase 3 "	pp			1				1	1	1				3																		4	0	0	0	apoplast cell wall chloroplast chloroplast envelope chloroplast stroma cytosolic ribosome membrane mitochondrion peroxisome plasma membrane plasmodesma vacuole 	0	Swiss	1
+Got1	AT1G24460	unknown protein	pp					1				1				1																		2	0	0	0	0	0	trembl	
+CLC2	AT1G59870	"PEN3, PDR8, ATPDR8, ABCG36, ATABCG36 ABC-2 and Plant PDR ABC-type transporter family protein "	pp		1			1	1	1	1	1	1	1	1	7		1					1									1		12	13	0	0	chloroplast chloroplast envelope membrane mitochondrion plasma membrane vacuolar membrane 	0	Swiss	
+CLC2	AT5G53480	ARM repeat superfamily protein 	pp						1	1	1	1	1	1	1	7		1																8	0	0	0	chloroplast cytoplasm nucleus 	0	Swiss	
+CLC2	AT4G38600	"KAK, UPL3 HEAT repeat ;HECT-domain (ubiquitin-transferase) "	pp						1		1		1			3																		3	0	0	0	plasma membrane 	0	Swiss	
+CLC2	AT5G24710	TWD40-2	pp						1							1																		1	0	0	0	plasma membrane 	0	trembl	
+CLC2	AT4G33650	"ADL2, DRP3A dynamin-related protein 3A "	pp						1		1		1			3																		3	0	0	mitochondrion 	peroxisome 	0	Swiss	
+CLC2	AT3G49720	unknown protein	pp						1		1	1				3		1		1						1			1					7	1	0	Golgi membrane 	chloroplast thylakoid membrane endosome Golgi apparatus membrane plasma membrane trans-Golgi network vacuolar membrane 	0	Swiss	
+CLC2	AT2G20990	SYTA synaptotagmin A 	pp						1		1		1			3		1	1												1			6	1	0	endosome membrane plasma membrane 	0	0	Swiss	
+CLC2	AT2G25430	ATECA4	pp	1					1					1		2																		3	0	0	clathrin-coated vesicle coated pit Golgi apparatus 	nucleus plasma membrane 	0	Swiss	
+CLC2	ATCG00340	"PSAB Photosystem I, PsaA/PsaB protein"	pp						1	1	1					3																		3	11	0	chloroplast thylakoid membrane 	0	0	Swiss	
+CLC2	AT1G12770	"ISE1, EMB1586 P-loop containing nucleoside triphosphate hydrolases superfamily protein "	pp						1							1																		1	0	0	0	mitochondrion 	0	Swiss	
+CLC2	AT3G11130	CHC1	pp	1					1							1							1											3	0	0	0	Golgi apparatus plasma membrane plasmodesma vacuolar membrane vacuole 	0	Swiss	
+CLC2	AT1G71270	VPS52	pp						1	1	1		1	1		5																		5	0	0	endosome membrane 	endomembrane system GARP complex Golgi apparatus Golgi membrane 	0	Swiss	
+CLC2	AT2G20760	CLC1	pp	1					1							1						1												3	0	0	0	cytosol plasma membrane 	0	Swiss	
+CLC2	AT5G23060	CaS calcium sensing receptor 	pp						1				1			2																		2	1	0	0	chloroplast chloroplast thylakoid chloroplast thylakoid membrane mitochondrion thylakoid 	0	Swiss	
+CLC2	ATCG00020	PSBA photosystem II reaction center protein A	pp						1		1					2																		2	7	0	chloroplast thylakoid membrane 	0	0	Swiss	
+CLC2	AT1G01960	BIG3/EDA10	pp						1		1		1	1		4																		4	0	0	membrane 	cytosol nucleus 	0	Swiss	
+CLC2	AT3G02260	"BIG, DOC1, TIR3, UMB1, ASA1, LPR1, CRM1 auxin transport protein (BIG) "	pp						1	1	1		1	1		5						1												6	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+CLC2	AT3G03960	TCP-1/cpn60 chaperonin family protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol membrane plasmodesma 	0	Swiss	
+CLC2	AT3G10380	SEC8	pp						1	1	1		1	1		5																		5	0	0	cell wall phragmoplast 	cytosol exocyst plasma membrane plasmodesma 	0	Swiss	
+CLC2	AT3G20050	"ATTCP-1, TCP-1 T-complex protein 1 alpha subunit "	pp						1		1		1	1		4			1															5	0	0	0	cytosol 	0	Swiss	
+CLC2	AT5G58410	HEAT/U-box domain-containing protein 	pp						1		1		1	1		4																		4	0	0	0	cytosol 	0	Swiss	
+CLC2	ATCG00540	PETA photosynthetic electron transfer A	pp						1							1																		1	2	0	chloroplast thylakoid membrane 	0	1	Swiss	
+CLC2	AT4G34660	SH3PH	pp	1					1							1																		2	0	0	0	cytosol 	0	trembl	
+CLC2	AT3G08530	CHC2	pp	1					1							1							1			1								4	0	0	0	chloroplast cytosol Golgi apparatus membrane plasma membrane plasmodesma 	0	Swiss	
+CLC2	AT1G67730	"YBR159, KCR1, ATKCR1 beta-ketoacyl reductase 1 "	pp						1							1		1	1									1						4	1	0	endoplasmic reticulum membrane 	endoplasmic reticulum membrane 	0	Swiss	
+CLC2	AT1G16880	uridylyltransferase-related 	pp						1							1																		1	0	0	0	chloroplast chloroplast envelope chloroplast stroma chloroplast thylakoid membrane stromule 	0	Swiss	
+CLC2	AT5G19820	emb2734 ARM repeat superfamily protein 	pp						1	1	1	1	1	1		6																		6	0	0	0	cell wall cytosol 	0	trembl	1
+CLC2	AT4G26010	Peroxidase superfamily protein 	pp						1					1		2																		2	0	0	extracellular region 	0	1	Swiss	
+CLC2	AT2G40060	CLC2	pp	1					1							1																		2	0	0	phragmoplast 	cell plate chloroplast envelope plasma membrane 	0	Swiss	
+CLC2	AT5G10470	"KCA1, KAC1 kinesin like protein for actin based chloroplast movement 1 "	pp						1				1	1		3																		3	0	0	chromosome nucleus spindle 	cell plate chloroplast envelope cytosol membrane phragmoplast plasma membrane 	0	Swiss	
+CLC2	AT3G12580	"HSP70, ATHSP70 heat shock protein 70 "	pp						1							1																		1	0	0	nucleus 	apoplast cell wall cytosol Golgi apparatus mitochondrion plasma membrane vacuolar membrane 	0	Swiss	1
+CLC2	AT2G16950	"TRN1, ATTRN1 transportin 1 "	pp						1	1	1		1	1		5																		5	0	0	cytoplasm nucleoplasm 	0	0	Swiss	
+CLC2	AT5G65010	ASN2 asparagine synthetase 2 	pp						1	1	1		1	1		5																		5	0	0	0	0	0	Swiss	
+CLC2	AT1G02080	transcription regulators 	pp						1		1		1			3																		3	0	0	0	0	0	trembl	
+CLC2	AT2G07360	TASH3	pp						1		1		1			3																		3	0	0	0	0	0	trembl	
+CLC2	AT3G06530	ARM repeat superfamily protein 	pp						1		1		1			3																		3	0	0	nucleolus 	0	0	Swiss	
+CLC2	AT2G40730	Protein kinase family protein with ARM repeat domain 	pp						1		1					2																		2	0	0	0	0	0	trembl	
+CLC2	AT3G52140	tetratricopeptide repeat (TPR)-containing protein 	pp						1		1					2																		2	0	0	cytoplasm 	0	0	Swiss	
+CLC2	AT1G21630	ATEH2	pp						1							1																		1	0	0	0	0	0	trembl	
+CLC2	AT3G53460	CP29 chloroplast RNA-binding protein 29 	pp						1							1																		1	0	0	chloroplast 	0	0	Swiss	
