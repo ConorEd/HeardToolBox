@@ -1,0 +1,10 @@
+README.txt
+setup.py
+src/namespace.HeardBox.egg-info/PKG-INFO
+src/namespace.HeardBox.egg-info/SOURCES.txt
+src/namespace.HeardBox.egg-info/dependency_links.txt
+src/namespace.HeardBox.egg-info/entry_points.txt
+src/namespace.HeardBox.egg-info/requires.txt
+src/namespace.HeardBox.egg-info/top_level.txt
+src/namespace/HeardBox/__init__.py
+src/namespace/HeardBox/__main__.py

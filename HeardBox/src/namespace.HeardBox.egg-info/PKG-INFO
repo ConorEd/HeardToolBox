@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: namespace.HeardBox
+Version: 0.0.1
+Summary: Interface the Heard Proteomic Database with Python
+Home-page: http://wwww.github.com/ConorEd/HeardBox
+Author: Conor Edwards
+Author-email: conorlo@hotmail.co.uk
+License: UNKNOWN
+Description: #####
+        
+        HeardBox Read Me.
+        
+        This is an early build of a python interface designed to incorporate UniprotKB Functions, pubMed with Microsoft Excel Office.
+        Created for the purpose of investigation of proteomic datasets.
+Keywords: Uniprot Excel Interface,Bioinformatics,Quality of life improvement,BLAST,ALIGN,GO,Excel
+Platform: UNKNOWN
+Classifier: Development Sttus :: 2 - Pre-Alpha
+Classifier: Topic :: Science
+Classifier: License :: OSI Approved :: BSD License
